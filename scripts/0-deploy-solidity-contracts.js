@@ -6,7 +6,6 @@ const { ethers } = hardhat;
  * with the correct values before invoking this script.
  */
 
-/* test */
 async function main() {
     const [deployer] = await ethers.getSigners();
     console.log('Deploying Contracts with the account: ', deployer.address);
