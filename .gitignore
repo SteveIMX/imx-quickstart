@@ -2,3 +2,7 @@ node_modules
 /.env
 /.yalc
 yalc.lock
+package-lock.json
+artifacts
+cache
+.scriptOutputs

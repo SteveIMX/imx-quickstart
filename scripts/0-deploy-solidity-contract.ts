@@ -1,5 +1,9 @@
-const hardhat = require('hardhat');
-const { ethers } = hardhat;
+import "@typechain/hardhat"; 
+const hre = require("hardhat");
+import { ethers, } from 'hardhat';
+import { Contract, Signer } from 'ethers';
+import flatCache from "flat-cache";
+
 /**
  * main deploys a smart contract via a call to the deploySmartContract function. To
  * use this function please ensure your environment file (.env) is configured
@@ -14,32 +18,19 @@ async function main() {
     const owner = process.env.CONTRACT_OWNER_ADDRESS;
     const name = process.env.CONTRACT_NAME;
     const symbol = process.env.CONTRACT_SYMBOL;
-    await deploySmartContract(owner, name, symbol, hardhat.network.name);
-}
-function sleep(ms) {
-  return new Promise((resolve) => {
-    setTimeout(resolve, ms);
-  });
-}
-/**
- * deploySmartContract compiles the solidity smart contract from the
- * contracts folder, and then deploys the contract onto one of the
- * nominated networks.
- *
- * @param {string} owner - The address of the person that owns the contract
- * @param {string} name - Friendly name for the contract
- * @param {string} symbol - Symbol for the contract (e.g. 'GODS')
- * @param {string} network - ropsten or mainnet
- */
-async function deploySmartContract(owner, name, symbol, network) {
+
     // Hard coded to compile and deploy the Asset.sol smart contract.
     const SmartContract = await ethers.getContractFactory('Asset');
-    const imxAddress = getIMXAddress(network);
+    const imxAddress = getIMXAddress(hre.network.name);
     const smartContract = await SmartContract.deploy(owner, name, symbol, imxAddress);
     console.log('Deployed Contract Address:', smartContract.address);
+    var cache = flatCache.load('.scriptOutputs',"./");
+    cache.setKey('COLLECTION_CONTRACT_ADDRESS', smartContract.address);
+    cache.save();
     console.log('Verifying contract in 5 minutes...');
     await sleep(60000 * 5);
-    await run("verify:verify", {
+    // TODO capture the "Reason: Already Verified" error and return sucess
+    await hre.run("verify:verify", {
         address: smartContract.address,
         constructorArguments: [
             owner,
@@ -49,12 +40,18 @@ async function deploySmartContract(owner, name, symbol, network) {
         ],
     })
 }
+function sleep(ms:number) {
+  return new Promise((resolve) => {
+    setTimeout(resolve, ms);
+  });
+}
+
 /**
  * Returns the IMX address for either network. DO NOT CHANGE these values.
  * @param {string} network - ropsten or mainnent
  * @returns {string} IMX address
  */
-function getIMXAddress(network) {
+function getIMXAddress(network:string) {
     switch (network) {
         case 'ropsten':
             return '0x4527be8f31e2ebfbef4fcaddb5a17447b27d2aef';

@@ -4,8 +4,8 @@ import { ImLogger, WinstonLogger } from '@imtbl/imlogging';
 import { ImmutableXClient } from '@imtbl/imx-sdk';
 import { requireEnvironmentVariable } from 'libs/utils';
 
-import env from '../config/client';
-import { loggerConfig } from '../config/logging';
+import env from '../src/config/client';
+import { loggerConfig } from '../src/config/logging';
 
 const provider = new AlchemyProvider(env.ethNetwork, env.alchemyApiKey);
 const log: ImLogger = new WinstonLogger(loggerConfig);
@@ -13,7 +13,7 @@ const log: ImLogger = new WinstonLogger(loggerConfig);
 const component = '[IMX-USER-REGISTRATION]';
 
 (async (): Promise<void> => {
-  const privateKey = requireEnvironmentVariable('OWNER_ACCOUNT_PRIVATE_KEY');
+  const privateKey = requireEnvironmentVariable('DEPLOYER_ROPSTEN_PRIVATE_KEY');
 
   const user = await ImmutableXClient.build({
     ...env.client,
