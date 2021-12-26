@@ -35,7 +35,6 @@
     "test": "yarn hardhat test",
     "deploy-registration": "yarn hardhat run deploy/registration.ts",
     "0-deploy-solidity-contract": "yarn hardhat run scripts/0-deploy-solidity-contract.ts  --network ropsten --show-stack-traces",
-    "00-deploy-solidity-contract": "ts-node -r tsconfig-paths/register -r dotenv/config  --files ./scripts/0-deploy-solidity-contract.ts ",
     "1-user-registration": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/1-user-registration.ts",
     "2-create-project": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/2-create-project.ts",
     "3-create-collection": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/3-create-collection.ts"

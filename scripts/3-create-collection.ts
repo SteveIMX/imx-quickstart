@@ -1,50 +1,45 @@
 import { AlchemyProvider } from '@ethersproject/providers';
 import { Wallet } from '@ethersproject/wallet';
-import { ImLogger, WinstonLogger } from '@imtbl/imlogging';
 import { CreateCollectionParams, ImmutableXClient } from '@imtbl/imx-sdk';
-import { requireEnvironmentVariable } from 'libs/utils';
-
+import { BytesLike } from 'ethers';
 import env from '../src/config/client';
-import { loggerConfig } from '../src/config/logging';
-
 import flatCache from "flat-cache";
+//import { loggerConfig } from '../src/config/logging';
+//import { ImLogger, WinstonLogger } from '@imtbl/imlogging';
 
-const provider = new AlchemyProvider(env.ethNetwork, env.alchemyApiKey);
-const log: ImLogger = new WinstonLogger(loggerConfig);
+const provider = new AlchemyProvider(env.config.ethNetwork, env.keys.alchemyApiKey);
+//const log: ImLogger = new WinstonLogger(loggerConfig);
 
 const component = '[IMX-CREATE-COLLECTION]';
 
 (async (): Promise<void> => {
-  const privateKey = requireEnvironmentVariable('OWNER_ACCOUNT_PRIVATE_KEY');
-  const collectionContractAddress = requireEnvironmentVariable(
-    'COLLECTION_CONTRACT_ADDRESS',
-  );
-  const projectId = requireEnvironmentVariable('COLLECTION_PROJECT_ID');
-
-  const wallet = new Wallet(privateKey);
-  const signer = wallet.connect(provider);
-  const ownerPublicKey = wallet.publicKey;
+  const signer = new Wallet(env.keys.privateKey as BytesLike).connect(provider);
 
   const user = await ImmutableXClient.build({
-    ...env.client,
-    signer,
-    enableDebug: true,
-  });
+    publicApiUrl: env.config.apiUrl as string,
+    signer: new Wallet(env.keys.privateKey as BytesLike).connect(provider),
+    starkContractAddress:  env.config.starkContractAddress as string,
+    registrationContractAddress: env.config.registrationContractAddress as string,
+    gasLimit: env.config.gasLimit as string,
+    gasPrice: env.config.gasPrice as string,
+    enableDebug: false
+  } );
 
-  log.info(component, 'Creating collection...', collectionContractAddress);
+  //log.info(component, 'Creating collection...', collectionContractAddress);
+  console.log(component, 'Creating collection...', env.scriptvars.collectionContractAddress);
 
   /**
    * Edit your values here
    */
   const params: CreateCollectionParams = {
-    name: 'ENTER_COLLECTION_NAME',
+    name: env.collection.name,
     // description: 'ENTER_COLLECTION_DESCRIPTION (OPTIONAL)',
-    contract_address: collectionContractAddress,
-    owner_public_key: ownerPublicKey,
+    contract_address: env.scriptvars.collectionContractAddress,
+    owner_public_key: env.keys.publicKey as string,
     // icon_url: '',
     // metadata_api_url: '',
     // collection_image_url: '',
-    project_id: parseInt(projectId, 10),
+    project_id: parseInt(env.scriptvars.collectionProjectId, 10),
   };
 
   let collection;
@@ -55,12 +50,15 @@ const component = '[IMX-CREATE-COLLECTION]';
   }
 
   var cache = flatCache.load('.scriptOutputs',"./");
-  cache.setKey('COLLECTION_PROJECT_ID', collection.address);
-  cache.save();
+  cache.setKey('COLLECTION_ID', collection.address);
+  cache.save(true);
 
-  log.info(component, 'Created collection');
+  //log.info(component, 'Created collection');
+  console.log(component, 'Created collection');
+
   console.log(JSON.stringify(collection, null, 2));
 })().catch(e => {
-  log.error(component, e);
+  //log.error(component, e);
+  console.log(component, e);
   process.exit(1);
 });

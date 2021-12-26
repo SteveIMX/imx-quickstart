@@ -26,12 +26,15 @@ async function main() {
 
     const smartContract = await SmartContract.deploy(owner, name, symbol, imxAddress);
     console.log('Deployed Contract Address:', smartContract.address);
+
+    //save deployed contract address to .scriptOutputs
     var cache = flatCache.load('.scriptOutputs',"./");
     cache.setKey('COLLECTION_CONTRACT_ADDRESS', smartContract.address);
-    cache.save();
+    cache.save(true);
+
     console.log('Verifying contract in 5 minutes...');
     await sleep(60000 * 5);
-    // TODO capture the "Reason: Already Verified" error and return sucess
+    // TODO better alternative to sleep plus catch the "Reason: Already Verified" error and return sucess
     await hre.run("verify:verify", {
         address: smartContract.address,
         constructorArguments: [

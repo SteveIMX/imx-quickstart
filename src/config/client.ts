@@ -44,7 +44,7 @@ export default {
   },
   scriptvars: {
     collectionContractAddress: getEnv('COLLECTION_CONTRACT_ADDRESS'),
-    collectionProjectId: getEnv('PROJECT_ID'),
+    collectionProjectId: getEnv('COLLECTION_PROJECT_ID'),
     collectionId: getEnv('COLLECTION_ID')
   }
 };

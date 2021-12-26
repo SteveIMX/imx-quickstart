@@ -2,37 +2,39 @@ import { AlchemyProvider } from '@ethersproject/providers';
 import { Wallet } from '@ethersproject/wallet';
 import { ImLogger, WinstonLogger } from '@imtbl/imlogging';
 import { CreateProjectParams, ImmutableXClient } from '@imtbl/imx-sdk';
-import { requireEnvironmentVariable } from 'libs/utils';
 import flatCache from "flat-cache";
+import { BytesLike } from 'ethers';
 
 import env from '../src/config/client';
-import { loggerConfig } from '../src/config/logging';
+//import { loggerConfig } from '../src/config/logging';
 
-const provider = new AlchemyProvider(env.ethNetwork, env.alchemyApiKey);
-const log: ImLogger = new WinstonLogger(loggerConfig);
+const provider = new AlchemyProvider(env.config.ethNetwork, env.keys.alchemyApiKey);
+//const log: ImLogger = new WinstonLogger(loggerConfig);
 
 const component = '[IMX-CREATE-PROJECT]';
 
 (async (): Promise<void> => {
-  const privateKey = requireEnvironmentVariable('DEPLOYER_ROPSTEN_PRIVATE_KEY');
-
-  const signer = new Wallet(privateKey).connect(provider);
+  const signer = new Wallet(env.keys.privateKey as BytesLike).connect(provider);
 
   const user = await ImmutableXClient.build({
-    ...env.client,
-    signer,
-    enableDebug: true,
-  });
-
-  log.info(component, 'Creating project...');
+    publicApiUrl: env.config.apiUrl as string,
+    signer: new Wallet(env.keys.privateKey as BytesLike).connect(provider),
+    starkContractAddress:  env.config.starkContractAddress as string,
+    registrationContractAddress: env.config.registrationContractAddress as string,
+    gasLimit: env.config.gasLimit as string,
+    gasPrice: env.config.gasPrice as string,
+    enableDebug: false
+  } );
+  //log.info(component, 'Creating project...');
+  console.log(component, 'Creating project...');
 
   /**
-   * Edit your values here
+   * Collection params
    */
   const params: CreateProjectParams = {
-    name: env.project_name,
-    company_name: env.company_name,
-    contact_email: env.contact_email,
+    name: env.collection.name,
+    company_name: env.collection.company_name,
+    contact_email: env.collection.contact_email,
   };
 
   let project;
@@ -42,12 +44,15 @@ const component = '[IMX-CREATE-PROJECT]';
     throw new Error(JSON.stringify(error, null, 2));
   }
 
+  //save deployed contract address to .scriptOutputs
   var cache = flatCache.load('.scriptOutputs',"./");
   cache.setKey('COLLECTION_PROJECT_ID', project.id);
-  cache.save();
+  cache.save(true);
 
-  log.info(component, `Created project with ID: ${project.id}`);
+  //log.info(component, `Created project with ID: ${project.id}`);
+  console.log(component, `Created project with ID: ${project.id}`);
 })().catch(e => {
-  log.error(component, e);
+  //log.error(component, e);
+  console.log(component, e);
   process.exit(1);
 });
