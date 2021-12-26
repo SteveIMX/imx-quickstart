@@ -1,14 +1,12 @@
 import flatCache from "flat-cache";
+import env from '../src/config/client';
 
 
 async function main() {
-    var cache = flatCache.load('.scriptOutputs',"./");
-    cache.getKey('COLLECTION_CONTRACT_ADDRESS') // { foo: 'var' }
-    console.log('cache- before: ', cache.getKey('COLLECTION_CONTRACT_ADDRESS'));
-    cache.setKey('COLLECTION_CONTRACT_ADDRESS', "0x5285cf2bc95B241Bb7b8e3A8d24aC84dC1BD7E1c");
-    console.log('cache- after: ', cache.getKey('COLLECTION_CONTRACT_ADDRESS'));
-    cache.save();
-
+    // var cache = flatCache.load('.scriptOutputs',"./");
+    // cache.setKey('asdf', "asdf345");
+    // cache.save(true);
+    console.log(env);
     //console.log('COLLECTION_CONTRACT_ADDRESS - before: ', process.env.COLLECTION_CONTRACT_ADDRESS);
     //process.env.COLLECTION_CONTRACT_ADDRESS = "0x5285cf2bc95B241Bb7b8e3A8d24aC84dC1BD7E1c";
     //console.log('COLLECTION_CONTRACT_ADDRESS - after: ', process.env.COLLECTION_CONTRACT_ADDRESS);

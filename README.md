@@ -1,5 +1,14 @@
 # TODO THIS CONTENT IS PLACEHOLDER
 
+## TODO
+Rationalise the env and config files
+  Collapse client.ts and utils.ts into single file
+  Add /Ropsten /Production split
+  Add imx-default vs production
+
+
+
+
 <div align="center">
   <a href="https://www.immutable.com">
     <img width="150" src="https://assets-global.website-files.com/5f7eec37ff782e797edabe11/5f8d36771ffcf8c91b03e7f4_dark.svg">

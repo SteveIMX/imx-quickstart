@@ -4,8 +4,10 @@ import { ImLogger, WinstonLogger } from '@imtbl/imlogging';
 import { CreateCollectionParams, ImmutableXClient } from '@imtbl/imx-sdk';
 import { requireEnvironmentVariable } from 'libs/utils';
 
-import env from '../config/client';
-import { loggerConfig } from '../config/logging';
+import env from '../src/config/client';
+import { loggerConfig } from '../src/config/logging';
+
+import flatCache from "flat-cache";
 
 const provider = new AlchemyProvider(env.ethNetwork, env.alchemyApiKey);
 const log: ImLogger = new WinstonLogger(loggerConfig);
@@ -51,6 +53,10 @@ const component = '[IMX-CREATE-COLLECTION]';
   } catch (error) {
     throw new Error(JSON.stringify(error, null, 2));
   }
+
+  var cache = flatCache.load('.scriptOutputs',"./");
+  cache.setKey('COLLECTION_PROJECT_ID', collection.address);
+  cache.save();
 
   log.info(component, 'Created collection');
   console.log(JSON.stringify(collection, null, 2));

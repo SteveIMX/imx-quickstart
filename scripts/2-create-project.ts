@@ -3,9 +3,10 @@ import { Wallet } from '@ethersproject/wallet';
 import { ImLogger, WinstonLogger } from '@imtbl/imlogging';
 import { CreateProjectParams, ImmutableXClient } from '@imtbl/imx-sdk';
 import { requireEnvironmentVariable } from 'libs/utils';
+import flatCache from "flat-cache";
 
-import env from '../config/client';
-import { loggerConfig } from '../config/logging';
+import env from '../src/config/client';
+import { loggerConfig } from '../src/config/logging';
 
 const provider = new AlchemyProvider(env.ethNetwork, env.alchemyApiKey);
 const log: ImLogger = new WinstonLogger(loggerConfig);
@@ -13,7 +14,7 @@ const log: ImLogger = new WinstonLogger(loggerConfig);
 const component = '[IMX-CREATE-PROJECT]';
 
 (async (): Promise<void> => {
-  const privateKey = requireEnvironmentVariable('OWNER_ACCOUNT_PRIVATE_KEY');
+  const privateKey = requireEnvironmentVariable('DEPLOYER_ROPSTEN_PRIVATE_KEY');
 
   const signer = new Wallet(privateKey).connect(provider);
 
@@ -29,9 +30,9 @@ const component = '[IMX-CREATE-PROJECT]';
    * Edit your values here
    */
   const params: CreateProjectParams = {
-    name: 'ENTER_PROJECT_NAME_HERE-2',
-    company_name: 'ENTER_COMPANY_NAME_HERE',
-    contact_email: 'contactemail@example.com',
+    name: env.project_name,
+    company_name: env.company_name,
+    contact_email: env.contact_email,
   };
 
   let project;
@@ -40,6 +41,10 @@ const component = '[IMX-CREATE-PROJECT]';
   } catch (error) {
     throw new Error(JSON.stringify(error, null, 2));
   }
+
+  var cache = flatCache.load('.scriptOutputs',"./");
+  cache.setKey('COLLECTION_PROJECT_ID', project.id);
+  cache.save();
 
   log.info(component, `Created project with ID: ${project.id}`);
 })().catch(e => {

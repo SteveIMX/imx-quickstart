@@ -1,8 +1,9 @@
 import "@typechain/hardhat"; 
 const hre = require("hardhat");
-import { ethers, } from 'hardhat';
+import { ethers } from 'hardhat';
 import { Contract, Signer } from 'ethers';
 import flatCache from "flat-cache";
+import env from '../src/config/client';
 
 /**
  * main deploys a smart contract via a call to the deploySmartContract function. To
@@ -15,13 +16,14 @@ async function main() {
     console.log('Deploying Contracts with the account: ', deployer.address);
     console.log('Account Balance: ', (await deployer.getBalance()).toString());
     // Use any logic you want to determine these values
-    const owner = process.env.CONTRACT_OWNER_ADDRESS;
-    const name = process.env.CONTRACT_NAME;
-    const symbol = process.env.CONTRACT_SYMBOL;
+    const owner = env.keys.publicKey;
+    const name = env.collection.company_name;
+    const symbol = env.collection.symbol;
 
     // Hard coded to compile and deploy the Asset.sol smart contract.
     const SmartContract = await ethers.getContractFactory('Asset');
-    const imxAddress = getIMXAddress(hre.network.name);
+    const imxAddress = env.config.starkContractAddress;
+
     const smartContract = await SmartContract.deploy(owner, name, symbol, imxAddress);
     console.log('Deployed Contract Address:', smartContract.address);
     var cache = flatCache.load('.scriptOutputs',"./");
@@ -46,20 +48,6 @@ function sleep(ms:number) {
   });
 }
 
-/**
- * Returns the IMX address for either network. DO NOT CHANGE these values.
- * @param {string} network - ropsten or mainnent
- * @returns {string} IMX address
- */
-function getIMXAddress(network:string) {
-    switch (network) {
-        case 'ropsten':
-            return '0x4527be8f31e2ebfbef4fcaddb5a17447b27d2aef';
-        case 'mainnet':
-            return '0x5FDCCA53617f4d2b9134B29090C87D01058e27e9';
-    }
-    throw Error('Invalid network selected');
-}
 main()
 .then(() => process.exit(0))
 .catch((error) => {
