@@ -41,7 +41,7 @@
   },
   "engines": {
     "npm": ">=6.x.x",
-    "node": "^12 || ^16"
+    "node": ">=12"
   },
   "keywords": [
     "Immutable",
