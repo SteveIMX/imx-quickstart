@@ -33,11 +33,14 @@
     "compile": "yarn hardhat compile",
     "test": "yarn hardhat test",
     "deploy-registration": "yarn hardhat run deploy/registration.ts",
-    "run:scratchpad": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/scratchpad.ts",
+    "scratchpad": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/scratchpad.ts",
     "0-deploy-solidity-contract": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/0-deploy-solidity-contract.ts",
     "1-user-registration": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/1-user-registration.ts",
     "2-create-project": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/2-create-project.ts",
-    "3-create-collection": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/3-create-collection.ts"
+    "3-create-metadata-api": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/3-create-metadata-api",
+    "4-create-collection": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/4-create-collection.ts",
+    "5-crawl-metadata-schema": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/5-crawl-metadata-schema.ts",
+    "7-mint-NFT": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/7-mint-NFT.ts"
   },
   "engines": {
     "npm": ">=6.x.x",

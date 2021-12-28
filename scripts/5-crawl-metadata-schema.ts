@@ -6,63 +6,93 @@ import {
   ImmutableXClient,
   MetadataTypes,
 } from '@imtbl/imx-sdk';
-import { requireEnvironmentVariable } from 'libs/utils';
+import { BytesLike } from 'ethers';
 
 import env from '../src/config/client';
-import { loggerConfig } from '../src/config/logging';
+//import { loggerConfig } from '../src/config/logging';
 
-const provider = new AlchemyProvider(env.ethNetwork, env.alchemyApiKey);
-const log: ImLogger = new WinstonLogger(loggerConfig);
+const provider = new AlchemyProvider(env.config.ethNetwork, env.keys.alchemyApiKey);
+//const log: ImLogger = new WinstonLogger(loggerConfig);
 
 const component = '[IMX-ADD-COLLECTION-METADATA-SCHEMA]';
 
 (async (): Promise<void> => {
-  const privateKey = requireEnvironmentVariable('OWNER_ACCOUNT_PRIVATE_KEY');
-  const collectionContractAddress = requireEnvironmentVariable(
-    'COLLECTION_CONTRACT_ADDRESS',
-  );
-
-  const wallet = new Wallet(privateKey);
-  const signer = wallet.connect(provider);
 
   const user = await ImmutableXClient.build({
-    ...env.client,
-    signer,
-    enableDebug: true,
-  });
+    publicApiUrl: env.config.apiUrl as string,
+    signer: new Wallet(env.keys.privateKey as BytesLike).connect(provider),
+    starkContractAddress:  env.config.starkContractAddress as string,
+    registrationContractAddress: env.config.registrationContractAddress as string,
+    gasLimit: env.config.gasLimit as string,
+    gasPrice: env.config.gasPrice as string,
+    enableDebug: false
+  } );
 
-  log.info(
+  console.log(
     component,
     'Adding metadata schema to collection',
-    collectionContractAddress,
+    env.scriptvars.collectionContractAddress,
   );
 
   /**
-   * Edit your values here
+   * TODO: There was nothing here, this should in theory just be a standard
    */
   const params: AddMetadataSchemaToCollectionParams = {
     metadata: [
       {
         name: 'EXAMPLE_BOOLEAN',
         type: MetadataTypes.Boolean,
-        filterable: true,
+        filterable: true
       },
-      // ..add rest of schema here
-    ],
+      {
+        name: "name",
+        type: MetadataTypes.Text
+      },
+      {
+        name: "description",
+        type: MetadataTypes.Text
+      },
+      {
+        name: "image_url",
+        type: MetadataTypes.Text
+      },
+      {
+        name: "attack",
+        type: MetadataTypes.Discrete,
+        filterable: true
+      },
+      {
+        name: "collectable",
+        type: MetadataTypes.Boolean,
+        filterable: true
+      },
+      {
+        name: "class",
+        type: MetadataTypes.Enum,
+        filterable: true
+      }
+    ]
   };
 
+  // "name": "1st NFT",
+  // "description": "This is your 1st nft",
+  // "image_url":"https://gateway.pinata.cloud/ipfs/QmabgDHUDQdmnAnrHDuq8YAxfFNdQo8V4PeUf9vBMe7v8B/1.jpeg",
+  // "attack": 123,
+  // "collectable": true,
+  // "class": "EnumValue1" 	
+
   const collection = await user.addMetadataSchemaToCollection(
-    collectionContractAddress,
+    env.scriptvars.collectionContractAddress,
     params,
   );
 
-  log.info(
+  console.log(
     component,
     'Added metadata schema to collection',
-    collectionContractAddress,
+    env.scriptvars.collectionContractAddress,
   );
   console.log(JSON.stringify(collection, null, 2));
 })().catch(e => {
-  log.error(component, e);
+  console.log(component, e);
   process.exit(1);
 });

@@ -1,0 +1,1 @@
+//TODO This needs to happen before the Create Collection step as that's when the API is added
