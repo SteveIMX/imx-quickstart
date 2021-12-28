@@ -14,11 +14,11 @@ import env from '../src/config/client';
 
 async function main() {
     const [deployer] = await hre.ethers.getSigners();
+    hre.run('compile');
     
     console.log('Deploying Contracts with the account: ', deployer.address);
-    console.log('Deploying Contracts with the network: ', hre.network);
     console.log('Account Balance: ', (await deployer.getBalance()).toString());
-    
+
     // Use any logic you want to determine these values
     const owner = env.keys.publicKey;
     const name = env.collection.company_name;
