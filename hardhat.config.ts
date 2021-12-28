@@ -5,7 +5,6 @@ import "hardhat-deploy-ethers";
 import * as dotenv from "dotenv";
 dotenv.config({ path: __dirname+'/.env' });
 import env from './src/config/client';
-console.log(env);
 
 
 //TODO: Figure out how to run from ts-node and use the /src/config/client env vars
@@ -29,15 +28,15 @@ module.exports = {
   defaultNetwork: env.config.ethNetwork,
   networks: {
     dev: {
-      url: `https://eth-ropsten.alchemyapi.io/v2/${env.keys.alchemyApiKey}}`,
+      url: `https://eth-ropsten.alchemyapi.io/v2/${env.keys.alchemyApiKey}`,
       accounts: [`0x${env.keys.privateKey}`],
     },
     ropsten: {
-      url: `https://eth-ropsten.alchemyapi.io/v2/${env.keys.alchemyApiKey}}`,
+      url: `https://eth-ropsten.alchemyapi.io/v2/${env.keys.alchemyApiKey}`,
       accounts: [`0x${env.keys.privateKey}`],
     },
     mainnet: {
-      url: `https://eth-ropsten.alchemyapi.io/v2/${env.keys.alchemyApiKey}}`,
+      url: `https://eth-ropsten.alchemyapi.io/v2/${env.keys.alchemyApiKey}`,
       accounts: [`0x${env.keys.privateKey}`],
     },
   },
