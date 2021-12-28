@@ -2,8 +2,23 @@ import "@nomiclabs/hardhat-waffle";
 import "@typechain/hardhat";
 import "@nomiclabs/hardhat-etherscan";
 import "hardhat-deploy-ethers";
+import * as dotenv from "dotenv";
+dotenv.config({ path: __dirname+'/.env' });
+import env from './src/config/client';
+console.log(env);
+
 
 //TODO: Figure out how to run from ts-node and use the /src/config/client env vars
+// url: `https://eth-ropsten.alchemyapi.io/v2/${process.env.IMX_ALCHEMY_API_KEY}}`,
+// accounts: [`0x${process.env.IMX_ROPSTEN_PRIVATE_KEY}`],
+// },
+// ropsten: {
+// url: `https://eth-ropsten.alchemyapi.io/v2/${process.env.IMX_ALCHEMY_API_KEY}`,
+// accounts: [`0x${process.env.IMX_ROPSTEN_PRIVATE_KEY}`],
+// },
+// mainnet: {
+// url: `https://eth-mainnet.alchemyapi.io/v2/${process.env.IMX_ALCHEMY_API_KEY}`,
+// accounts: [`0x${process.env.IMX_ROPSTEN_PRIVATE_KEY}`],
 
 
 /**
@@ -11,19 +26,19 @@ import "hardhat-deploy-ethers";
  */
 module.exports = {
   solidity: "0.8.4",
-  defaultNetwork: "ropsten",
+  defaultNetwork: env.config.ethNetwork,
   networks: {
     dev: {
-      url: `https://eth-ropsten.alchemyapi.io/v2/${process.env.IMX_ALCHEMY_API_KEY}}`,
-      accounts: [`0x${process.env.IMX_ROPSTEN_PRIVATE_KEY}`],
+      url: `https://eth-ropsten.alchemyapi.io/v2/${env.keys.alchemyApiKey}}`,
+      accounts: [`0x${env.keys.privateKey}`],
     },
     ropsten: {
-      url: `https://eth-ropsten.alchemyapi.io/v2/${process.env.IMX_ALCHEMY_API_KEY}`,
-      accounts: [`0x${process.env.IMX_ROPSTEN_PRIVATE_KEY}`],
+      url: `https://eth-ropsten.alchemyapi.io/v2/${env.keys.alchemyApiKey}}`,
+      accounts: [`0x${env.keys.privateKey}`],
     },
     mainnet: {
-      url: `https://eth-mainnet.alchemyapi.io/v2/${process.env.IMX_ALCHEMY_API_KEY}`,
-      accounts: [`0x${process.env.IMX_ROPSTEN_PRIVATE_KEY}`],
+      url: `https://eth-ropsten.alchemyapi.io/v2/${env.keys.alchemyApiKey}}`,
+      accounts: [`0x${env.keys.privateKey}`],
     },
   },
   typechain: {
@@ -31,6 +46,6 @@ module.exports = {
     target: "ethers-v5",
   },
   etherscan: {
-    apiKey: process.env.IMX_ETHERSCAN_API_KEY
+    apiKey: env.keys.etherscanApiKey
   },
 };
