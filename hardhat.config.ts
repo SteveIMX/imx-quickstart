@@ -2,17 +2,16 @@ import "@nomiclabs/hardhat-waffle";
 import "@typechain/hardhat";
 import "@nomiclabs/hardhat-etherscan";
 import "hardhat-deploy-ethers";
-import dotenv from "dotenv";
 
 //TODO: Figure out how to run from ts-node and use the /src/config/client env vars
 
-dotenv.config();
 
 /**
  * @type import('hardhat/config').HardhatUserConfig
  */
 module.exports = {
   solidity: "0.8.4",
+  defaultNetwork: "ropsten",
   networks: {
     dev: {
       url: `https://eth-ropsten.alchemyapi.io/v2/${process.env.IMX_ALCHEMY_API_KEY}}`,

@@ -4,6 +4,9 @@ import { CreateCollectionParams, ImmutableXClient } from '@imtbl/imx-sdk';
 import { BytesLike } from 'ethers';
 import env from '../src/config/client';
 import flatCache from "flat-cache";
+import hre from 'hardhat';
+import "@nomiclabs/hardhat-waffle";
+const ethers = hre.ethers;
 //import { loggerConfig } from '../src/config/logging';
 //import { ImLogger, WinstonLogger } from '@imtbl/imlogging';
 
@@ -24,6 +27,19 @@ const component = '[IMX-CREATE-COLLECTION]';
     gasPrice: env.config.gasPrice as string,
     enableDebug: false
   } );
+
+  // console.log('Verifying contract:'+env.scriptvars.collectionContractAddress);
+  // // TODO better alternative to sleep plus catch the "Reason: Already Verified" error and return sucess
+  // // See https://github.com/wighawag/hardhat-deploy/issues/220
+  // await hre.run("verify:verify", {
+  //     address: env.scriptvars.collectionContractAddress,
+  //     constructorArguments: [
+  //         env.keys.publicKey,
+  //         env.collection.name,
+  //         env.collection.symbol,
+  //         env.config.registrationContractAddress
+  //     ],
+  // })
 
   //log.info(component, 'Creating collection...', collectionContractAddress);
   console.log(component, 'Creating collection...', env.scriptvars.collectionContractAddress);
