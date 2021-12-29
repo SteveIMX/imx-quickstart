@@ -68,8 +68,8 @@ const waitForTransaction = async (promise: Promise<string>) => {
         users: [{
           etherKey: env.keys.mintRecieverWallet.toLowerCase(),
           tokens: [{
-                     id: "2",
-                     blueprint: 'https://cloudflare-ipfs.com/ipfs/QmZmqruC9qZdBhdhzCTnFCiPpKGmmrS4i4QuiYT6CDQEhr/2',
+                     id: "1",
+                     blueprint: 'https://cloudflare-ipfs.com/ipfs/QmZmqruC9qZdBhdhzCTnFCiPpKGmmrS4i4QuiYT6CDQEhr/1',
                  }]
          }],
         contractAddress: env.scriptvars.collectionContractAddress.toLowerCase(),
@@ -78,6 +78,7 @@ const waitForTransaction = async (promise: Promise<string>) => {
 
     const result = await minter.mintV2(payload);
     console.log(result);
+    console.log(`CONGRATULATIONS! Your first NFT has been minted: https://market.ropsten.x.immutable.com/assets/${env.scriptvars.collectionContractAddress}/1`);
 
 })().catch((e) => {
     console.log(component, e);
