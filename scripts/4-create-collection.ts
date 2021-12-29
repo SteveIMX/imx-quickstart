@@ -50,15 +50,15 @@ function sleep(ms:number) {
   let collection;
   try {
     collection = await user.createCollection(params);
-  } catch (error) {
-    if(error.code="contract_address_invalid")
+  } catch (error)
     {
-      console.log("Contract not yet available, retrying in 3 minutes...");
-      await sleep(60000 * 3);
-      collection = await user.createCollection(params);
-    }
-    else
-      throw new Error(JSON.stringify(error, null, 2));
+      if ((error as {code:string,message:string}).code=="contract_address_invalid")
+      {
+        console.log("Contract not yet available, retrying in 3 minutes...");
+        await sleep(60000 * 3);
+        collection = await user.createCollection(params);
+      }
+      else throw new Error(JSON.stringify(error, null, 2));
   }
 
   var cache = flatCache.load('.scriptOutputs',"./");
