@@ -28,13 +28,16 @@ export default {
     gasPrice: getEnv('GAS_PRICE'),
     registrationContractAddress: getNetworkEnv('REGISTRATION_ADDRESS'),
     starkContractAddress: getNetworkEnv('STARK_CONTRACT_ADDRESS'),
-    apiUrl: getNetworkEnv('API_URL')
+    apiUrl: getNetworkEnv('API_URL'),
+    etherscanTxnUrl: getNetworkEnv('ALCHEMY_TXN_URL'),
+    alchemyTxnUrl: getNetworkEnv('ALCHEMY_TXN_URL')
   },
   keys: {
     alchemyApiKey: getEnv('ALCHEMY_API_KEY'),
     etherscanApiKey: getEnv('ETHERSCAN_API_KEY'),
     publicKey: getNetworkEnv('PUBLIC_KEY'),
-    privateKey: getNetworkEnv('PRIVATE_KEY')
+    privateKey: getNetworkEnv('PRIVATE_KEY'),
+    mintRecieverWallet: getNetworkEnv('MINT_RECIEVER_WALLET')
   },
   collection: {
     name: getEnv('CONTRACT_NAME'),
@@ -44,7 +47,6 @@ export default {
   },
   scriptvars: {
     collectionContractAddress: getEnv('COLLECTION_CONTRACT_ADDRESS'),
-    collectionProjectId: getEnv('COLLECTION_PROJECT_ID'),
-    collectionId: getEnv('COLLECTION_ID')
+    collectionProjectId: getEnv('COLLECTION_PROJECT_ID')
   }
 };

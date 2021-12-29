@@ -7,7 +7,6 @@ async function main() {
     // cache.setKey('asdf', "asdf345");
     // cache.save(true);
     console.log(env);
-    console.log(`CONGRATULATIONS! Your first NFT has been minted: https://market.ropsten.x.immutable.com/assets/${env.scriptvars.collectionContractAddress}/1`);
     //console.log('COLLECTION_CONTRACT_ADDRESS - before: ', process.env.COLLECTION_CONTRACT_ADDRESS);
     //process.env.COLLECTION_CONTRACT_ADDRESS = "0x5285cf2bc95B241Bb7b8e3A8d24aC84dC1BD7E1c";
     //console.log('COLLECTION_CONTRACT_ADDRESS - after: ', process.env.COLLECTION_CONTRACT_ADDRESS);
