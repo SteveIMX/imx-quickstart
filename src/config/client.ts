@@ -1,7 +1,7 @@
 import flatCache from "flat-cache";
 var cache = flatCache.load('.scriptOutputs',"./");
 
-export function getNetworkEnv(name: string): string | undefined {
+export function getNetworkEnv(name: string): string {
   return getEnv(name = getEnv('ETH_NETWORK').toUpperCase() + "_" + name);
 }
 export function getEnv(name: string): string {
@@ -17,7 +17,7 @@ export function getEnv(name: string): string {
   value = process.env["IMX_" + name];
   if (Boolean(value)) return value as string;
 
-  console.log("Environment variable " + name + " not set");
+  console.log("Environment variable " + name + " not yet set");
   return "";
 }
 
@@ -35,8 +35,9 @@ export default {
   keys: {
     alchemyApiKey: getEnv('ALCHEMY_API_KEY'),
     etherscanApiKey: getEnv('ETHERSCAN_API_KEY'),
-    publicKey: getNetworkEnv('PUBLIC_KEY'),
-    privateKey: getNetworkEnv('PRIVATE_KEY'),
+    address: getNetworkEnv('MINTER_ADDRESS'),
+    publicKey: getNetworkEnv('MINTER_PUBLIC_KEY'),
+    privateKey: getNetworkEnv('MINTER_PRIVATE_KEY'),
     mintRecieverWallet: getNetworkEnv('MINT_RECIEVER_WALLET')
   },
   collection: {

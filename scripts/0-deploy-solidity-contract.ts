@@ -20,7 +20,7 @@ async function main() {
     console.log('Account Balance: ', (await deployer.getBalance()).toString());
 
     // Use any logic you want to determine these values
-    const owner = env.keys.publicKey;
+    const owner = env.keys.address;
     const name = env.collection.company_name;
     const symbol = env.collection.symbol;
 
