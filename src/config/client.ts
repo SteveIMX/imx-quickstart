@@ -35,6 +35,8 @@ export default {
   keys: {
     alchemyApiKey: getEnv('ALCHEMY_API_KEY'),
     etherscanApiKey: getEnv('ETHERSCAN_API_KEY'),
+    pinataApiKey: getEnv('PINATA_API_KEY'),
+    pinataSecretKey: getEnv('PINATA_SECRET_KEY'),
     address: getNetworkEnv('MINTER_ADDRESS'),
     publicKey: getNetworkEnv('MINTER_PUBLIC_KEY'),
     privateKey: getNetworkEnv('MINTER_PRIVATE_KEY'),
@@ -45,6 +47,8 @@ export default {
     symbol: getEnv('CONTRACT_SYMBOL'),
     company_name: getEnv('COMPANY_NAME'),
     contact_email: getEnv('CONTACT_EMAIL'),
+    metadata_path: getEnv('METADATA_PATH'),
+    ipfs_url: getEnv('IPFS_URL')
   },
   scriptvars: {
     collectionContractAddress: getEnv('COLLECTION_CONTRACT_ADDRESS'),
