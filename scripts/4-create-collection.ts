@@ -42,7 +42,7 @@ function sleep(ms:number) {
     contract_address: env.scriptvars.collectionContractAddress,
     owner_public_key: env.keys.publicKey as string,
     // icon_url: '',
-     metadata_api_url: 'https://gateway.pinata.cloud/ipfs/QmVBdHnu8NfqFP1J611A87iBRQ1S89jtkkSaD2iM1yikWq',  //TODO: Add the images and make this no longer hard coded
+     metadata_api_url: env.collection.ipfs_url,  //TODO: Add the images and make this no longer hard coded
     // collection_image_url: '',
     project_id: parseInt(env.scriptvars.collectionProjectId, 10),
   };
