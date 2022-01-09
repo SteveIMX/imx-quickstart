@@ -31,11 +31,11 @@ const component = '[IMX-ADD-COLLECTION-METADATA-SCHEMA]';
   console.log(
     component,
     'Adding metadata schema to collection',
-    env.scriptvars.collectionContractAddress,
+    env.collection.collectionContractAddress,
   );
 
   /**
-   * TODO: There was nothing here, this should in theory just be a standard
+   * TODO: This should be from a file
    */
   const params: AddMetadataSchemaToCollectionParams = {
     metadata: [
@@ -77,14 +77,14 @@ const component = '[IMX-ADD-COLLECTION-METADATA-SCHEMA]';
   // "class": "EnumValue1" 	
 
   const collection = await user.addMetadataSchemaToCollection(
-    env.scriptvars.collectionContractAddress,
+    env.collection.collectionContractAddress,
     params,
   );
 
   console.log(
     component,
     'Added metadata schema to collection',
-    env.scriptvars.collectionContractAddress,
+    env.collection.collectionContractAddress,
   );
   console.log(JSON.stringify(collection, null, 2));
 })().catch(e => {

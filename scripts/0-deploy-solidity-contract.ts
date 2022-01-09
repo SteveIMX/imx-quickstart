@@ -21,7 +21,7 @@ async function main() {
 
     // Use any logic you want to determine these values
     const owner = env.keys.address;
-    const name = env.collection.company_name;
+    const name = env.collection.companyName;
     const symbol = env.collection.symbol;
 
     // Hard coded to compile and deploy the Asset.sol smart contract.

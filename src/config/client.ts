@@ -45,12 +45,10 @@ export default {
   collection: {
     name: getEnv('CONTRACT_NAME'),
     symbol: getEnv('CONTRACT_SYMBOL'),
-    company_name: getEnv('COMPANY_NAME'),
-    contact_email: getEnv('CONTACT_EMAIL'),
-    metadata_path: getEnv('METADATA_PATH'),
-    ipfs_url: getEnv('IPFS_URL')
-  },
-  scriptvars: {
+    companyName: getEnv('COMPANY_NAME'),
+    contactEmail: getEnv('CONTACT_EMAIL'),
+    metadataJsonPath: getEnv('METADATA_JSON_PATH'),
+    metadataApiUrl: getEnv('METADATA_API_URL'),
     collectionContractAddress: getEnv('COLLECTION_CONTRACT_ADDRESS'),
     collectionProjectId: getEnv('COLLECTION_PROJECT_ID')
   }

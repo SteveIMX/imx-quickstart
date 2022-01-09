@@ -34,17 +34,17 @@ function sleep(ms:number) {
     enableDebug: false
   } );
 
-  console.log(component, 'Creating collection...', env.scriptvars.collectionContractAddress);
+  console.log(component, 'Creating collection...', env.collection.collectionContractAddress);
 
   const params: CreateCollectionParams = {
     name: env.collection.name,
     // description: 'ENTER_COLLECTION_DESCRIPTION (OPTIONAL)',
-    contract_address: env.scriptvars.collectionContractAddress,
+    contract_address: env.collection.collectionContractAddress,
     owner_public_key: env.keys.publicKey as string,
     // icon_url: '',
-     metadata_api_url: env.collection.ipfs_url,  //TODO: Add the images and make this no longer hard coded
+     metadata_api_url: env.collection.metadataApiUrl,  //TODO: Add the images and make this no longer hard coded
     // collection_image_url: '',
-    project_id: parseInt(env.scriptvars.collectionProjectId, 10),
+    project_id: parseInt(env.collection.collectionProjectId, 10),
   };
 
   let collection;
