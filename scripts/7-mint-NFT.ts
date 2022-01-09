@@ -39,17 +39,15 @@ const waitForTransaction = async (promise: Promise<string>) => {
       enableDebug: false
     } );
 
-    //BIG TODO
-    // 1) Replace the metadataAPI with reference the IPFS hash of the JSON, could be as simple as setting jsonIPFSUrl = metadataApiUrl as step, need to allow for other metadata API options (e.g. Git)
-    // 2) Check if NFT already minted
-    // 3) Allow for multi-mint and eventually mint on demand
+    let tokenID = process.argv.slice(2)[0];
+    if(!(Number(tokenID) >= 1)) tokenID = "1";
     const payload: ImmutableMethodParams.ImmutableOffchainMintV2ParamsTS = [
       {
         users: [{
           etherKey: env.keys.mintRecieverWallet.toLowerCase(),
           tokens: [{
-                     id: "1",
-                     blueprint: env.collection.metadataApiUrl + '/1',
+                     id: tokenID,
+                     blueprint: env.collection.metadataApiUrl + tokenID,
                  }]
          }],
         contractAddress: env.collection.collectionContractAddress.toLowerCase(),
@@ -58,7 +56,7 @@ const waitForTransaction = async (promise: Promise<string>) => {
 
     const result = await minter.mintV2(payload);
     console.log(result);
-    console.log(`CONGRATULATIONS! Your first NFT has been minted: https://market.ropsten.x.immutable.com/assets/${env.collection.collectionContractAddress}/1`);
+    console.log(`CONGRATULATIONS! Your NFT has been minted: https://market.ropsten.x.immutable.com/assets/${env.collection.collectionContractAddress}/`+tokenID);
 
 })().catch((e) => {
     console.log(component, e);
