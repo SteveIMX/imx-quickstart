@@ -6,3 +6,4 @@ package-lock.json
 artifacts
 cache
 .scriptOutputs
+.DS_Store
