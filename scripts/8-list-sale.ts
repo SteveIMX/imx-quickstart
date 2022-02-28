@@ -6,7 +6,7 @@ import env from '../src/config/client';
 
 const provider = new AlchemyProvider(env.config.ethNetwork, env.keys.alchemyApiKey);
 
-const component = 'imx-mint-script';
+const component = 'imx-list-sale-script';
 
 (async (): Promise<void> => {
     const wallet = new Wallet(env.keys.privateKey as BytesLike)

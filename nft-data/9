@@ -1,0 +1,7 @@
+{
+    "eco": "A00",
+    "name": "Saragossa Opening",
+    "pgn": "1.c3 1/2",
+    "FEN": "rnbqkbnr/pppppppp/8/8/8/2P5/PP1PPPPP/RNBQKBNR b KQkq - 0 1",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/15.svg"
+}

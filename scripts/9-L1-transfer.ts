@@ -6,7 +6,22 @@ import env from '../src/config/client';
 
 const provider = new AlchemyProvider(env.config.ethNetwork, env.keys.alchemyApiKey);
 
-const component = 'imx-mint-script';
+const component = 'imx-bulk-mint-script';
+
+const waitForTransaction = async (promise: Promise<string>) => {
+    const txId = await promise;
+    console.log(component, 'Waiting for transaction', {
+      txId,
+      etherscanLink: `${env.config.etherscanTxnUrl}${txId}`,
+      alchemyLink: `${env.config.alchemyTxnUrl}${txId}`,
+    });
+    const receipt = await provider.waitForTransaction(txId);
+    if (receipt.status === 0) {
+      throw new Error('Transaction rejected');
+    }
+    console.log(component, 'Transaction Mined: ' + receipt.blockNumber);
+    return receipt;
+};
 
 (async (): Promise<void> => {
     const wallet = new Wallet(env.keys.privateKey as BytesLike)

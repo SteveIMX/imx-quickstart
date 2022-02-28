@@ -1,8 +1,7 @@
 {
-    "name": "3rd NFT",
-    "description": "This is your 3rdnft",
-    "image_url":"https://gateway.pinata.cloud/ipfs/QmabgDHUDQdmnAnrHDuq8YAxfFNdQo8V4PeUf9vBMe7v8B/3.jpeg",
-    "attack": 323,
-    "collectable": true,
-    "class": "EnumValue3" 	
+    "eco": "A00",
+    "name": "Polish Opening: (Sokolsky/Orang-utan)",
+    "pgn": "1.b4 1/2",
+    "FEN": "rnbqkbnr/pppppppp/8/8/1P6/8/P1PPPPPP/RNBQKBNR b KQkq b3 0 1",
+    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/9.svg"
 }

@@ -4,9 +4,11 @@ import { Wallet } from '@ethersproject/wallet';
 import { BytesLike, ethers } from 'ethers';
 
 async function main() {
-    let tokenID = Number(process.argv.slice(2)[0]);
-    if(!(tokenID >= 1)) tokenID = 1;
-    console.log(tokenID);
+
+    const { publicKeyCreate } = require('secp256k1')
+    var publicKey = '0x' + Buffer.from(publicKeyCreate(Buffer.from(env.keys.privateKey, 'hex'), false)).toString('hex')
+    console.log(publicKey)
+
 }
 
 main()

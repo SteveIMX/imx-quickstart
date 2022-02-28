@@ -43,7 +43,9 @@
     "3-create-metadata-api": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/3-create-metadata-api",
     "4-create-collection": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/4-create-collection.ts",
     "5-crawl-metadata-schema": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/5-crawl-metadata-schema.ts",
-    "7-mint-NFT": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/7-mint-NFT.ts"
+    "7-mint-NFT": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/7-mint-NFT.ts",
+    "8-list-sale": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/8-list-sale.ts",
+    "9-L1-transfer": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/9-L1-transfer.ts"
   },
   "engines": {
     "npm": ">=6.x.x",
