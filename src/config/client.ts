@@ -38,7 +38,6 @@ export default {
     pinataApiKey: getEnv('PINATA_API_KEY'),
     pinataSecretKey: getEnv('PINATA_SECRET_KEY'),
     address: getNetworkEnv('MINTER_ADDRESS'),
-    publicKey: getNetworkEnv('MINTER_PUBLIC_KEY'),
     privateKey: getNetworkEnv('MINTER_PRIVATE_KEY'),
     mintRecieverWallet: getNetworkEnv('MINT_RECIEVER_WALLET')
   },
