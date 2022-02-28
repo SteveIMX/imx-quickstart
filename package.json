@@ -1,7 +1,10 @@
 {
   "name": "@imtbl/imx-quickstart",
   "version": "1.0.0",
-  "repository": "https://github.com/immutable/imx-quickstart.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/immutable/imx-quickstart.git"
+  },
   "description": "Immutable X ",
   "author": "@imtbl/SE-Squad",
   "license": "MIT",
@@ -33,11 +36,14 @@
     "compile": "yarn hardhat compile",
     "test": "yarn hardhat test",
     "deploy-registration": "yarn hardhat run deploy/registration.ts",
-    "run:scratchpad": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/scratchpad.ts",
+    "scratchpad": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/scratchpad.ts",
     "0-deploy-solidity-contract": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/0-deploy-solidity-contract.ts",
     "1-user-registration": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/1-user-registration.ts",
     "2-create-project": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/2-create-project.ts",
-    "3-create-collection": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/3-create-collection.ts"
+    "3-create-metadata-api": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/3-create-metadata-api",
+    "4-create-collection": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/4-create-collection.ts",
+    "5-crawl-metadata-schema": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/5-crawl-metadata-schema.ts",
+    "7-mint-NFT": "ts-node -r tsconfig-paths/register -r dotenv/config ./scripts/7-mint-NFT.ts"
   },
   "engines": {
     "npm": ">=6.x.x",
@@ -68,6 +74,7 @@
     "@nomiclabs/hardhat-etherscan": "^2.1.4",
     "@nomiclabs/hardhat-waffle": "^2.0.0",
     "@openzeppelin/contracts": "^4.1.0",
+    "@pinata/sdk": "^1.1.23",
     "@typechain/ethers-v5": "^7.0.1",
     "@typechain/hardhat": "^2.0.2",
     "@types/mocha": "^9.0.0",
@@ -111,5 +118,13 @@
   },
   "devDependencies": {
     "@types/flat-cache": "^2.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/immutable/imx-quickstart/issues"
+  },
+  "homepage": "https://github.com/immutable/imx-quickstart#readme",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
   }
 }

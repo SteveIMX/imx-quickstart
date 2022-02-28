@@ -33,8 +33,8 @@ const component = '[IMX-CREATE-PROJECT]';
    */
   const params: CreateProjectParams = {
     name: env.collection.name,
-    company_name: env.collection.company_name,
-    contact_email: env.collection.contact_email,
+    company_name: env.collection.companyName,
+    contact_email: env.collection.contactEmail,
   };
 
   let project;

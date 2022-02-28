@@ -1,7 +1,7 @@
 import flatCache from "flat-cache";
 var cache = flatCache.load('.scriptOutputs',"./");
 
-export function getNetworkEnv(name: string): string | undefined {
+export function getNetworkEnv(name: string): string {
   return getEnv(name = getEnv('ETH_NETWORK').toUpperCase() + "_" + name);
 }
 export function getEnv(name: string): string {
@@ -17,7 +17,7 @@ export function getEnv(name: string): string {
   value = process.env["IMX_" + name];
   if (Boolean(value)) return value as string;
 
-  console.log("Environment variable " + name + " not set");
+  console.log("Environment variable " + name + " not yet set");
   return "";
 }
 
@@ -28,23 +28,28 @@ export default {
     gasPrice: getEnv('GAS_PRICE'),
     registrationContractAddress: getNetworkEnv('REGISTRATION_ADDRESS'),
     starkContractAddress: getNetworkEnv('STARK_CONTRACT_ADDRESS'),
-    apiUrl: getNetworkEnv('API_URL')
+    apiUrl: getNetworkEnv('API_URL'),
+    etherscanTxnUrl: getNetworkEnv('ALCHEMY_TXN_URL'),
+    alchemyTxnUrl: getNetworkEnv('ALCHEMY_TXN_URL')
   },
   keys: {
     alchemyApiKey: getEnv('ALCHEMY_API_KEY'),
     etherscanApiKey: getEnv('ETHERSCAN_API_KEY'),
-    publicKey: getNetworkEnv('PUBLIC_KEY'),
-    privateKey: getNetworkEnv('PRIVATE_KEY')
+    pinataApiKey: getEnv('PINATA_API_KEY'),
+    pinataSecretKey: getEnv('PINATA_SECRET_KEY'),
+    address: getNetworkEnv('MINTER_ADDRESS'),
+    publicKey: getNetworkEnv('MINTER_PUBLIC_KEY'),
+    privateKey: getNetworkEnv('MINTER_PRIVATE_KEY'),
+    mintRecieverWallet: getNetworkEnv('MINT_RECIEVER_WALLET')
   },
   collection: {
     name: getEnv('CONTRACT_NAME'),
     symbol: getEnv('CONTRACT_SYMBOL'),
-    company_name: getEnv('COMPANY_NAME'),
-    contact_email: getEnv('CONTACT_EMAIL'),
-  },
-  scriptvars: {
+    companyName: getEnv('COMPANY_NAME'),
+    contactEmail: getEnv('CONTACT_EMAIL'),
+    metadataJsonPath: getEnv('METADATA_JSON_PATH'),
+    metadataApiUrl: getEnv('METADATA_API_URL'),
     collectionContractAddress: getEnv('COLLECTION_CONTRACT_ADDRESS'),
-    collectionProjectId: getEnv('COLLECTION_PROJECT_ID'),
-    collectionId: getEnv('COLLECTION_ID')
+    collectionProjectId: getEnv('COLLECTION_PROJECT_ID')
   }
 };

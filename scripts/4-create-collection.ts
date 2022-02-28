@@ -15,6 +15,12 @@ const provider = new AlchemyProvider(env.config.ethNetwork, env.keys.alchemyApiK
 
 const component = '[IMX-CREATE-COLLECTION]';
 
+function sleep(ms:number) {
+  return new Promise((resolve) => {
+    setTimeout(resolve, ms);
+  });
+}
+
 (async (): Promise<void> => {
   const signer = new Wallet(env.keys.privateKey as BytesLike).connect(provider);
 
@@ -28,41 +34,31 @@ const component = '[IMX-CREATE-COLLECTION]';
     enableDebug: false
   } );
 
-  // console.log('Verifying contract:'+env.scriptvars.collectionContractAddress);
-  // // TODO better alternative to sleep plus catch the "Reason: Already Verified" error and return sucess
-  // // See https://github.com/wighawag/hardhat-deploy/issues/220
-  // await hre.run("verify:verify", {
-  //     address: env.scriptvars.collectionContractAddress,
-  //     constructorArguments: [
-  //         env.keys.publicKey,
-  //         env.collection.name,
-  //         env.collection.symbol,
-  //         env.config.registrationContractAddress
-  //     ],
-  // })
+  console.log(component, 'Creating collection...', env.collection.collectionContractAddress);
 
-  //log.info(component, 'Creating collection...', collectionContractAddress);
-  console.log(component, 'Creating collection...', env.scriptvars.collectionContractAddress);
-
-  /**
-   * Edit your values here
-   */
   const params: CreateCollectionParams = {
     name: env.collection.name,
     // description: 'ENTER_COLLECTION_DESCRIPTION (OPTIONAL)',
-    contract_address: env.scriptvars.collectionContractAddress,
+    contract_address: env.collection.collectionContractAddress,
     owner_public_key: env.keys.publicKey as string,
     // icon_url: '',
-    // metadata_api_url: '',
+     metadata_api_url: env.collection.metadataApiUrl,  //TODO: Add the images and make this no longer hard coded
     // collection_image_url: '',
-    project_id: parseInt(env.scriptvars.collectionProjectId, 10),
+    project_id: parseInt(env.collection.collectionProjectId, 10),
   };
 
   let collection;
   try {
     collection = await user.createCollection(params);
-  } catch (error) {
-    throw new Error(JSON.stringify(error, null, 2));
+  } catch (error)
+    {
+      if ((error as {code:string,message:string}).code=="contract_address_invalid")
+      {
+        console.log("Contract not yet available, retrying in 3 minutes...");
+        await sleep(60000 * 3);
+        collection = await user.createCollection(params);
+      }
+      else throw new Error(JSON.stringify(error, null, 2));
   }
 
   var cache = flatCache.load('.scriptOutputs',"./");
