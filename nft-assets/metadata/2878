@@ -1,0 +1,8 @@
+{
+    "tokenid": 2878,
+    "eco": "D32",
+    "name": "Tarrasch Defense",
+    "pgn": "1. d4 d5 2. c4 e6 3. Nc3 c5 1/2",
+    "FEN": "rnbqkbnr/pp3ppp/4p3/2pp4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq c6 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2878.svg"
+}

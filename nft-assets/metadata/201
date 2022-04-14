@@ -1,0 +1,8 @@
+{
+    "tokenid": 201,
+    "eco": "A04",
+    "name": "Zukertort Opening",
+    "pgn": "1. Nf3 1/2",
+    "FEN": "rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/201.svg"
+}

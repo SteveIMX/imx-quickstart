@@ -1,0 +1,8 @@
+{
+    "tokenid": 671,
+    "eco": "A80",
+    "name": "Dutch Defense: Manhattan Gambit, Anti-Modern",
+    "pgn": "1. d4 f5 2. Qd3 d6 3. g4 1/2",
+    "FEN": "rnbqkbnr/ppp1p1pp/3p4/5p2/3P2P1/3Q4/PPP1PP1P/RNB1KBNR b KQkq g3 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/671.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1964,
+    "eco": "C40",
+    "name": "Elephant Gambit",
+    "pgn": "1. e4 e5 2. Nf3 d5 1/2",
+    "FEN": "rnbqkbnr/ppp2ppp/8/3pp3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq d6 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1964.svg"
+}

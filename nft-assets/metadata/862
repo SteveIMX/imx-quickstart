@@ -1,0 +1,8 @@
+{
+    "tokenid": 862,
+    "eco": "B02",
+    "name": "Alekhine Defense: Mokele Mbembe, Vavra Defense",
+    "pgn": "1. e4 Nf6 2. e5 Ne4 3. d4 e6 1/2",
+    "FEN": "rnbqkb1r/pppp1ppp/4p3/4P3/3Pn3/8/PPP2PPP/RNBQKBNR w KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/862.svg"
+}

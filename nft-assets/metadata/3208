@@ -1,0 +1,8 @@
+{
+    "tokenid": 3208,
+    "eco": "E20",
+    "name": "Nimzo-Indian Defense",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 1/2",
+    "FEN": "rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/3208.svg"
+}

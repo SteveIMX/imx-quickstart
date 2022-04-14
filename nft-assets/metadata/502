@@ -1,0 +1,8 @@
+{
+    "tokenid": 502,
+    "eco": "A43",
+    "name": "Benoni Defense: Snail Variation",
+    "pgn": "1. d4 c5 2. d5 Na6 1/2",
+    "FEN": "r1bqkbnr/pp1ppppp/n7/2pP4/8/8/PPP1PPPP/RNBQKBNR w KQkq - 1 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/502.svg"
+}

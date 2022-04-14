@@ -1,0 +1,8 @@
+{
+    "tokenid": 661,
+    "eco": "A80",
+    "name": "Dutch Defense: Alapin Variation",
+    "pgn": "1. d4 f5 2. Qd3 1/2",
+    "FEN": "rnbqkbnr/ppppp1pp/8/5p2/3P4/3Q4/PPP1PPPP/RNB1KBNR b KQkq - 1 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/661.svg"
+}

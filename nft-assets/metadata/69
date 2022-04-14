@@ -1,0 +1,8 @@
+{
+    "tokenid": 69,
+    "eco": "A00",
+    "name": "Kadas Opening: Beginner's Trap",
+    "pgn": "1. h4 d5 2. Rh3 1/2",
+    "FEN": "rnbqkbnr/ppp1pppp/8/3p4/7P/7R/PPPPPPP1/RNBQKBN1 b Qkq - 1 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/69.svg"
+}

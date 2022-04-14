@@ -1,0 +1,8 @@
+{
+    "tokenid": 77,
+    "eco": "A00",
+    "name": "Mieses Opening",
+    "pgn": "1. d3 1/2",
+    "FEN": "rnbqkbnr/pppppppp/8/8/8/3P4/PPP1PPPP/RNBQKBNR b KQkq - 0 1",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/77.svg"
+}

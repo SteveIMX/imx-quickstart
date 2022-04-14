@@ -1,0 +1,8 @@
+{
+    "tokenid": 342,
+    "eco": "A17",
+    "name": "English Opening: Anglo-Indian Defense, Nimzo-English",
+    "pgn": "1. Nf3 Nf6 2. c4 e6 3. Nc3 Bb4 1/2",
+    "FEN": "rnbqk2r/pppp1ppp/4pn2/8/1bP5/2N2N2/PP1PPPPP/R1BQKB1R w KQkq - 2 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/342.svg"
+}

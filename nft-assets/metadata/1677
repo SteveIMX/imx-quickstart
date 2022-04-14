@@ -1,0 +1,8 @@
+{
+    "tokenid": 1677,
+    "eco": "C22",
+    "name": "Center Game: Paulsen Attack Variation",
+    "pgn": "1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 1/2",
+    "FEN": "r1bqkbnr/pppp1ppp/2n5/8/4P3/4Q3/PPP2PPP/RNB1KBNR b KQkq - 2 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1677.svg"
+}

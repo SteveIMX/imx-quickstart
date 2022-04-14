@@ -1,0 +1,8 @@
+{
+    "tokenid": 3159,
+    "eco": "E12",
+    "name": "Nimzo-Indian Defense: Three Knights Variation, Duchamp Variation, Modern Line",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Bg5 Bb7 6. Nd2 1/2",
+    "FEN": "rn1qk2r/pbpp1ppp/1p2pn2/6B1/1bPP4/2N5/PP1NPPPP/R2QKB1R b KQkq - 5 6",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/3159.svg"
+}

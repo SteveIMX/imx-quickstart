@@ -1,0 +1,8 @@
+{
+    "tokenid": 1844,
+    "eco": "C33",
+    "name": "King's Gambit Accepted: Bishop's Gambit, First Jaenisch Variation",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 Nf6 1/2",
+    "FEN": "rnb1kb1r/pppp1ppp/5n2/8/2B1Pp1q/8/PPPP2PP/RNBQ1KNR w kq - 4 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1844.svg"
+}

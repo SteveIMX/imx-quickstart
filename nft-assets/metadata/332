@@ -1,0 +1,8 @@
+{
+    "tokenid": 332,
+    "eco": "A15",
+    "name": "English Opening: Anglo-Indian Defense, Slav Formation",
+    "pgn": "1. Nf3 Nf6 2. c4 g6 3. g3 c6 1/2",
+    "FEN": "rnbqkb1r/pp1ppp1p/2p2np1/8/2P5/5NP1/PP1PPP1P/RNBQKB1R w KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/332.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1679,
+    "eco": "C23",
+    "name": "Bishop's Opening",
+    "pgn": "1. e4 e5 2. Bc4 1/2",
+    "FEN": "rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1679.svg"
+}

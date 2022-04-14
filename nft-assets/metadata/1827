@@ -1,0 +1,8 @@
+{
+    "tokenid": 1827,
+    "eco": "C33",
+    "name": "King's Gambit Accepted",
+    "pgn": "1. e4 e5 2. f4 exf4 1/2",
+    "FEN": "rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1827.svg"
+}

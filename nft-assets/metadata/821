@@ -1,0 +1,8 @@
+{
+    "tokenid": 821,
+    "eco": "B01",
+    "name": "Scandinavian Defense: Boehnke Gambit",
+    "pgn": "1. e4 d5 2. exd5 e5 3. dxe6 Bxe6 1/2",
+    "FEN": "rn1qkbnr/ppp2ppp/4b3/8/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/821.svg"
+}

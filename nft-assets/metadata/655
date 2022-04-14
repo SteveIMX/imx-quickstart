@@ -1,0 +1,8 @@
+{
+    "tokenid": 655,
+    "eco": "A76",
+    "name": "Benoni Defense: Classical Variation, Czerniak Defense",
+    "pgn": "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O 9. O-O Re8 1/2",
+    "FEN": "rnbqr1k1/pp3pbp/3p1np1/2pP4/4P3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 6 10",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/655.svg"
+}

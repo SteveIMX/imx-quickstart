@@ -1,0 +1,8 @@
+{
+    "tokenid": 2747,
+    "eco": "D09",
+    "name": "Queen's Gambit Declined: Albin Countergambit, Fianchetto Variation, Bg4 Line",
+    "pgn": "1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. g3 Bg4 1/2",
+    "FEN": "r2qkbnr/ppp2ppp/2n5/4P3/2Pp2b1/5NP1/PP2PP1P/RNBQKB1R w KQkq - 1 6",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2747.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1647,
+    "eco": "C20",
+    "name": "King's Pawn Opening: Speers",
+    "pgn": "1. e4 e5 2. Qg4 Nf6 3. Qf5 1/2",
+    "FEN": "rnbqkb1r/pppp1ppp/5n2/4pQ2/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 3 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1647.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 36,
+    "eco": "A00",
+    "name": "Grob Opening: Grob Gambit, Fritz Gambit, Romford Countergambit",
+    "pgn": "1. g4 d5 2. Bg2 Bxg4 3. c4 d4 4. Bxb7 Nd7 5. Bxa8 Qxa8 1/2",
+    "FEN": "q3kbnr/p1pnpppp/8/8/2Pp2b1/8/PP1PPP1P/RNBQK1NR w KQk - 0 6",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/36.svg"
+}

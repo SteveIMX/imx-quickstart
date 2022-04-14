@@ -1,0 +1,8 @@
+{
+    "tokenid": 820,
+    "eco": "B01",
+    "name": "Scandinavian Defense: Blackburne-Kloosterboer Gambit",
+    "pgn": "1. e4 d5 2. exd5 c6 1/2",
+    "FEN": "rnbqkbnr/pp2pppp/2p5/3P4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/820.svg"
+}

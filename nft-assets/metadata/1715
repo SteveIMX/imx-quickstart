@@ -1,0 +1,8 @@
+{
+    "tokenid": 1715,
+    "eco": "C25",
+    "name": "Vienna Game: Giraffe Attack",
+    "pgn": "1. e4 e5 2. Nc3 Bc5 3. Qg4 1/2",
+    "FEN": "rnbqk1nr/pppp1ppp/8/2b1p3/4P1Q1/2N5/PPPP1PPP/R1B1KBNR b KQkq - 3 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1715.svg"
+}

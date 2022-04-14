@@ -1,0 +1,8 @@
+{
+    "tokenid": 380,
+    "eco": "A27",
+    "name": "English Opening: King's English Variation, Three Knights System",
+    "pgn": "1. c4 e5 2. Nc3 Nc6 3. Nf3 1/2",
+    "FEN": "r1bqkbnr/pppp1ppp/2n5/4p3/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 3 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/380.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1978,
+    "eco": "C40",
+    "name": "King's Pawn Game: McConnell Defense",
+    "pgn": "1. e4 e5 2. Nf3 Qf6 1/2",
+    "FEN": "rnb1kbnr/pppp1ppp/5q2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1978.svg"
+}

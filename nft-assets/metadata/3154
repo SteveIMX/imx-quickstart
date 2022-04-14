@@ -1,0 +1,8 @@
+{
+    "tokenid": 3154,
+    "eco": "E11",
+    "name": "Bogo-Indian Defense: Nimzowitsch Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 1/2",
+    "FEN": "rnb1k2r/ppppqppp/4pn2/8/1bPP4/5N2/PP1BPPPP/RN1QKB1R w KQkq - 4 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/3154.svg"
+}

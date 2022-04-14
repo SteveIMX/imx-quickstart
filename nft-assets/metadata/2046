@@ -1,0 +1,8 @@
+{
+    "tokenid": 2046,
+    "eco": "C41",
+    "name": "Philidor Defense: Philidor Gambit",
+    "pgn": "1. e4 e5 2. Nf3 d6 3. d4 Bd7 1/2",
+    "FEN": "rn1qkbnr/pppb1ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2046.svg"
+}

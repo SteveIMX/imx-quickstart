@@ -1,0 +1,8 @@
+{
+    "tokenid": 1085,
+    "eco": "B20",
+    "name": "Sicilian Defense: Gloria Variation",
+    "pgn": "1. e4 c5 2. c4 d6 3. Nc3 Nc6 4. g3 h5 1/2",
+    "FEN": "r1bqkbnr/pp2ppp1/2np4/2p4p/2P1P3/2N3P1/PP1P1P1P/R1BQKBNR w KQkq h6 0 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1085.svg"
+}

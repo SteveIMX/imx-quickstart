@@ -1,0 +1,8 @@
+{
+    "tokenid": 3231,
+    "eco": "E28",
+    "name": "Nimzo-Indian Defense: S\u00e4misch Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. a3 Bxc3+ 6. bxc3 1/2",
+    "FEN": "rnbq1rk1/pppp1ppp/4pn2/8/2PP4/P1P1P3/5PPP/R1BQKBNR b KQ - 0 6",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/3231.svg"
+}

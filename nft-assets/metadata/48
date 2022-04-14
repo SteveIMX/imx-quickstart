@@ -1,0 +1,8 @@
+{
+    "tokenid": 48,
+    "eco": "A00",
+    "name": "Hungarian Opening",
+    "pgn": "1. g3 1/2",
+    "FEN": "rnbqkbnr/pppppppp/8/8/8/6P1/PPPPPP1P/RNBQKBNR b KQkq - 0 1",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/48.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1020,
+    "eco": "B12",
+    "name": "Caro-Kann Defense: Advance Variation, Tal Variation",
+    "pgn": "1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 1/2",
+    "FEN": "rn1qkbnr/pp2pppp/2p5/3pPb2/3P3P/8/PPP2PP1/RNBQKBNR b KQkq h3 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1020.svg"
+}

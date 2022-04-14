@@ -1,0 +1,8 @@
+{
+    "tokenid": 1863,
+    "eco": "C33",
+    "name": "King's Gambit Accepted: Orsini Gambit",
+    "pgn": "1. e4 e5 2. f4 exf4 3. b3 1/2",
+    "FEN": "rnbqkbnr/pppp1ppp/8/8/4Pp2/1P6/P1PP2PP/RNBQKBNR b KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1863.svg"
+}

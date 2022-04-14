@@ -1,0 +1,8 @@
+{
+    "tokenid": 1797,
+    "eco": "C30",
+    "name": "King's Gambit Declined: Panteldakis Countergambit, Symmetrical Variation",
+    "pgn": "1. e4 e5 2. f4 f5 3. exf5 exf4 4. Nf3 d5 5. d4 Bd6 6. Bd3 1/2",
+    "FEN": "rnbqk1nr/ppp3pp/3b4/3p1P2/3P1p2/3B1N2/PPP3PP/RNBQK2R b KQkq - 2 6",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1797.svg"
+}

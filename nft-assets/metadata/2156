@@ -1,0 +1,8 @@
+{
+    "tokenid": 2156,
+    "eco": "C45",
+    "name": "Scotch Game: Classical Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 1/2",
+    "FEN": "r1bqk1nr/pppp1ppp/2n5/2b5/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2156.svg"
+}

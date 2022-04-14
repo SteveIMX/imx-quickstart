@@ -1,0 +1,8 @@
+{
+    "tokenid": 1995,
+    "eco": "C40",
+    "name": "Latvian Gambit: Lobster Gambit",
+    "pgn": "1. e4 e5 2. Nf3 f5 3. g4 1/2",
+    "FEN": "rnbqkbnr/pppp2pp/8/4pp2/4P1P1/5N2/PPPP1P1P/RNBQKB1R b KQkq g3 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1995.svg"
+}

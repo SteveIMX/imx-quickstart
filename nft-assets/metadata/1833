@@ -1,0 +1,8 @@
+{
+    "tokenid": 1833,
+    "eco": "C33",
+    "name": "King's Gambit Accepted: Bishop's Gambit, Bledow Variation",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Bc4 d5 1/2",
+    "FEN": "rnbqkbnr/ppp2ppp/8/3p4/2B1Pp2/8/PPPP2PP/RNBQK1NR w KQkq d6 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1833.svg"
+}

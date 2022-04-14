@@ -1,0 +1,8 @@
+{
+    "tokenid": 1460,
+    "eco": "C00",
+    "name": "French Defense: Franco-Hiva Gambit Accepted",
+    "pgn": "1. e4 e6 2. d4 f5 3. exf5 Nf6 1/2",
+    "FEN": "rnbqkb1r/pppp2pp/4pn2/5P2/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 1 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1460.svg"
+}

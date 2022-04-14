@@ -1,0 +1,8 @@
+{
+    "tokenid": 3024,
+    "eco": "D62",
+    "name": "Queen's Gambit Declined: Orthodox Defense, Rubinstein Variation, Flohr Line",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Qc2 c5 8. cxd5 1/2",
+    "FEN": "r1bq1rk1/pp1nbppp/4pn2/2pP2B1/3P4/2N1PN2/PPQ2PPP/R3KB1R b KQ - 0 8",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/3024.svg"
+}

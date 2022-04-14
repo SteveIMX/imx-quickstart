@@ -1,0 +1,8 @@
+{
+    "tokenid": 108,
+    "eco": "A00",
+    "name": "Sodium Attack: Chenoboskion Variation",
+    "pgn": "1. Na3 g6 2. g4 1/2",
+    "FEN": "rnbqkbnr/pppppp1p/6p1/8/6P1/N7/PPPPPP1P/R1BQKBNR b KQkq g3 0 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/108.svg"
+}

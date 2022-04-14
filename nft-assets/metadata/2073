@@ -1,0 +1,8 @@
+{
+    "tokenid": 2073,
+    "eco": "C42",
+    "name": "Russian Game: Damiano Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 1/2",
+    "FEN": "rnbqkb1r/pppp1ppp/8/4N3/4n3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2073.svg"
+}

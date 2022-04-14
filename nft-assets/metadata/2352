@@ -1,0 +1,8 @@
+{
+    "tokenid": 2352,
+    "eco": "C56",
+    "name": "Italian Game: Scotch Gambit, Anderssen Attack",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5 Qxd5 8. Nc3 1/2",
+    "FEN": "r1b1kb1r/ppp2ppp/2n5/3q4/3pn3/2N2N2/PPP2PPP/R1BQR1K1 b kq - 1 8",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2352.svg"
+}

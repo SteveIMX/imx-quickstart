@@ -1,0 +1,8 @@
+{
+    "tokenid": 3143,
+    "eco": "E10",
+    "name": "Blumenfeld Countergambit: Spielmann Variation",
+    "pgn": "1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 b5 5. Bg5 exd5 6. cxd5 h6 1/2",
+    "FEN": "rnbqkb1r/p2p1pp1/5n1p/1ppP2B1/8/5N2/PP2PPPP/RN1QKB1R w KQkq - 0 7",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/3143.svg"
+}

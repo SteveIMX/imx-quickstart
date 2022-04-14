@@ -1,0 +1,8 @@
+{
+    "tokenid": 2150,
+    "eco": "C45",
+    "name": "Scotch Game",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 1/2",
+    "FEN": "r1bqkbnr/pppp1ppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2150.svg"
+}

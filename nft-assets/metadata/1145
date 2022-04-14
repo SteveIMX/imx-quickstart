@@ -1,0 +1,8 @@
+{
+    "tokenid": 1145,
+    "eco": "B23",
+    "name": "Sicilian Defense: Closed",
+    "pgn": "1. e4 c5 2. Nc3 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1145.svg"
+}

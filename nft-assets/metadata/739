@@ -1,0 +1,8 @@
+{
+    "tokenid": 739,
+    "eco": "B00",
+    "name": "Guatemala Defense",
+    "pgn": "1. e4 b6 2. d4 Ba6 1/2",
+    "FEN": "rn1qkbnr/p1pppppp/bp6/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/739.svg"
+}

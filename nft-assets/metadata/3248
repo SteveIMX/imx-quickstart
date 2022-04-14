@@ -1,0 +1,8 @@
+{
+    "tokenid": 3248,
+    "eco": "E37",
+    "name": "Nimzo-Indian Defense: Classical Variation, Noa Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 1/2",
+    "FEN": "rnbqk2r/ppp2ppp/4p3/3p4/2PPn3/P7/1PQ1PPPP/R1B1KBNR b KQkq - 2 7",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/3248.svg"
+}

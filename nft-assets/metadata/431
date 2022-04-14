@@ -1,0 +1,8 @@
+{
+    "tokenid": 431,
+    "eco": "A40",
+    "name": "Englund Gambit",
+    "pgn": "1. d4 e5 1/2",
+    "FEN": "rnbqkbnr/pppp1ppp/8/4p3/3P4/8/PPP1PPPP/RNBQKBNR w KQkq e6 0 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/431.svg"
+}

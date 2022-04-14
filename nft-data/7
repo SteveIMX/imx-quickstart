@@ -1,7 +1,0 @@
-{
-    "eco": "A00",
-    "name": "Sokolsky: ...e5 ...Bxb4",
-    "pgn": "1.b4 e5 2.Bb2 Bxb4 3.Bxe5 Nf6 4.c4 O-O 5.e3 1/2",
-    "FEN": "rnbq1rk1/pppp1ppp/5n2/4B3/1bP5/4P3/P2P1PPP/RN1QKBNR b KQ - 0 5",
-    "image_url": "https://raw.githubusercontent.com/danekshea/ChessOpenerDataset/master/metadata/images/13.svg"
-}

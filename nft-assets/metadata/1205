@@ -1,0 +1,8 @@
+{
+    "tokenid": 1205,
+    "eco": "B28",
+    "name": "Sicilian Defense: O'Kelly Variation, Wing Gambit",
+    "pgn": "1. e4 c5 2. Nf3 a6 3. b4 1/2",
+    "FEN": "rnbqkbnr/1p1ppppp/p7/2p5/1P2P3/5N2/P1PP1PPP/RNBQKB1R b KQkq b3 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1205.svg"
+}

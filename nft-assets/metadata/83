@@ -1,0 +1,8 @@
+{
+    "tokenid": 83,
+    "eco": "A00",
+    "name": "Polish Opening: Bugayev Advance Variation",
+    "pgn": "1. b4 e5 2. Bb2 f6 3. b5 1/2",
+    "FEN": "rnbqkbnr/pppp2pp/5p2/1P2p3/8/8/PBPPPPPP/RN1QKBNR b KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/83.svg"
+}

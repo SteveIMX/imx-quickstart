@@ -1,0 +1,8 @@
+{
+    "tokenid": 402,
+    "eco": "A34",
+    "name": "English Opening: Symmetrical Variation, Rubinstein Variation",
+    "pgn": "1. c4 Nf6 2. Nc3 c5 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Nc7 1/2",
+    "FEN": "rnbqkb1r/ppn1pppp/8/2p5/8/2N3P1/PP1PPPBP/R1BQK1NR w KQkq - 2 6",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/402.svg"
+}

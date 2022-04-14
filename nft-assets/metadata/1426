@@ -1,0 +1,8 @@
+{
+    "tokenid": 1426,
+    "eco": "B90",
+    "name": "Sicilian Defense: Najdorf Variation, Lipnitsky Attack",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 1/2",
+    "FEN": "rnbqkb1r/1p2pppp/p2p1n2/8/2BNP3/2N5/PPP2PPP/R1BQK2R b KQkq - 1 6",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1426.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1325,
+    "eco": "B56",
+    "name": "Sicilian Defense: Classical Variation, Fianchetto Variation",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. g3 1/2",
+    "FEN": "r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N3P1/PPP2P1P/R1BQKB1R b KQkq - 0 6",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1325.svg"
+}

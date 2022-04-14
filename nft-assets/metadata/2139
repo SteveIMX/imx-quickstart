@@ -1,0 +1,8 @@
+{
+    "tokenid": 2139,
+    "eco": "C44",
+    "name": "Scotch Game: Scotch Gambit",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 1/2",
+    "FEN": "r1bqkbnr/pppp1ppp/2n5/8/2BpP3/5N2/PPP2PPP/RNBQK2R b KQkq - 1 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2139.svg"
+}

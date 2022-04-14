@@ -1,0 +1,8 @@
+{
+    "tokenid": 294,
+    "eco": "A11",
+    "name": "English Opening: Caro-Kann Defensive System",
+    "pgn": "1. c4 c6 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/2p5/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/294.svg"
+}

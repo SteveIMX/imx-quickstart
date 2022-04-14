@@ -1,0 +1,8 @@
+{
+    "tokenid": 755,
+    "eco": "B00",
+    "name": "Nimzowitsch Defense: Franco-Hiva Gambit",
+    "pgn": "1. e4 Nc6 2. d4 e6 3. Nf3 f5 4. exf5 Nf6 1/2",
+    "FEN": "r1bqkb1r/pppp2pp/2n1pn2/5P2/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/755.svg"
+}

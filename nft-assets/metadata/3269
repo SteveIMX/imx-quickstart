@@ -1,0 +1,8 @@
+{
+    "tokenid": 3269,
+    "eco": "E48",
+    "name": "Nimzo-Indian Defense: Normal Variation, Bishop Attack, Classical Defense",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 1/2",
+    "FEN": "rnbq1rk1/ppp2ppp/4pn2/3p4/1bPP4/2NBP3/PP3PPP/R1BQK1NR w KQ d6 0 6",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/3269.svg"
+}

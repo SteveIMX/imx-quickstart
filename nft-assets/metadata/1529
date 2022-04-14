@@ -1,0 +1,8 @@
+{
+    "tokenid": 1529,
+    "eco": "C07",
+    "name": "French Defense: Tarrasch Variation, Open System, Shaposhnikov Gambit",
+    "pgn": "1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Nf6 1/2",
+    "FEN": "rnbqkb1r/pp3ppp/4pn2/2pP4/3P4/8/PPPN1PPP/R1BQKBNR w KQkq - 1 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1529.svg"
+}

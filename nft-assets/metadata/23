@@ -1,0 +1,8 @@
+{
+    "tokenid": 23,
+    "eco": "A00",
+    "name": "Formation: Cabbage Attack",
+    "pgn": "1. c3 e5 2. a3 d5 3. b3 Nf6 4. Bb2 Nc6 5. a4 Bd6 6. g3 O-O 7. e3 1/2",
+    "FEN": "r1bq1rk1/ppp2ppp/2nb1n2/3pp3/P7/1PP1P1P1/1B1P1P1P/RN1QKBNR b KQ - 0 7",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/23.svg"
+}

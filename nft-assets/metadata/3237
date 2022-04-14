@@ -1,0 +1,8 @@
+{
+    "tokenid": 3237,
+    "eco": "E32",
+    "name": "Nimzo-Indian Defense: Classical Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 1/2",
+    "FEN": "rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N5/PPQ1PPPP/R1B1KBNR b KQkq - 3 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/3237.svg"
+}

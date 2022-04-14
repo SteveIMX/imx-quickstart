@@ -1,0 +1,8 @@
+{
+    "tokenid": 2149,
+    "eco": "C44",
+    "name": "Tayler Opening",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Be2 Nf6 4. d4 1/2",
+    "FEN": "r1bqkb1r/pppp1ppp/2n2n2/4p3/3PP3/5N2/PPP1BPPP/RNBQK2R b KQkq d3 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2149.svg"
+}

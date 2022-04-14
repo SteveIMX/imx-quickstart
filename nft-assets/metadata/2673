@@ -1,0 +1,8 @@
+{
+    "tokenid": 2673,
+    "eco": "D00",
+    "name": "Queen's Pawn Game: Steinitz Countergambit",
+    "pgn": "1. d4 d5 2. Bf4 c5 1/2",
+    "FEN": "rnbqkbnr/pp2pppp/8/2pp4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq c6 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2673.svg"
+}

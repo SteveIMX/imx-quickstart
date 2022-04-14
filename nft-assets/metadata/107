@@ -1,0 +1,8 @@
+{
+    "tokenid": 107,
+    "eco": "A00",
+    "name": "Sodium Attack: Celadon Variation",
+    "pgn": "1. Na3 e5 2. d3 Bxa3 3. bxa3 d5 4. e3 c5 5. Rb1 1/2",
+    "FEN": "rnbqk1nr/pp3ppp/8/2ppp3/8/P2PP3/P1P2PPP/1RBQKBNR b Kkq - 1 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/107.svg"
+}

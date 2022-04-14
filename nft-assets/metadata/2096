@@ -1,0 +1,8 @@
+{
+    "tokenid": 2096,
+    "eco": "C43",
+    "name": "Russian Game: Modern Attack, Symmetrical Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 1/2",
+    "FEN": "rnbqkb1r/pppp1ppp/8/4p3/3Pn3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2096.svg"
+}

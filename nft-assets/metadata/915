@@ -1,0 +1,8 @@
+{
+    "tokenid": 915,
+    "eco": "B06",
+    "name": "Modern Defense: Masur Gambit",
+    "pgn": "1. e4 g6 2. d4 Nh6 3. Nc3 f5 4. Bxh6 Bxh6 5. exf5 O-O 1/2",
+    "FEN": "rnbq1rk1/ppppp2p/6pb/5P2/3P4/2N5/PPP2PPP/R2QKBNR w KQ - 1 6",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/915.svg"
+}

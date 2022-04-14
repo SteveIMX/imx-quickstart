@@ -1,0 +1,8 @@
+{
+    "tokenid": 579,
+    "eco": "A51",
+    "name": "Indian Defense: Budapest Defense",
+    "pgn": "1. d4 Nf6 2. c4 e5 1/2",
+    "FEN": "rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq e6 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/579.svg"
+}

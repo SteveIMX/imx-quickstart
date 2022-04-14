@@ -1,0 +1,8 @@
+{
+    "tokenid": 50,
+    "eco": "A00",
+    "name": "Hungarian Opening: Burk Gambit",
+    "pgn": "1. g3 e5 2. a3 d5 3. Nf3 e4 4. Nh4 Be7 5. d3 1/2",
+    "FEN": "rnbqk1nr/ppp1bppp/8/3p4/4p2N/P2P2P1/1PP1PP1P/RNBQKB1R b KQkq - 0 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/50.svg"
+}

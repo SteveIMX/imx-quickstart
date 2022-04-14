@@ -35,6 +35,8 @@ function sleep(ms:number) {
   } );
 
   console.log(component, 'Creating collection...', env.collection.collectionContractAddress);
+  console.log('public key:', env.keys.publicKey);
+
 
   const params: CreateCollectionParams = {
     name: env.collection.name,
@@ -46,6 +48,7 @@ function sleep(ms:number) {
     // collection_image_url: '',
     project_id: parseInt(env.collection.collectionProjectId, 10),
   };
+ 
 
   let collection;
   try {

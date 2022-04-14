@@ -1,0 +1,8 @@
+{
+    "tokenid": 528,
+    "eco": "A45",
+    "name": "Indian Defense: Reversed Chigorin Defense",
+    "pgn": "1. d4 Nf6 2. Nc3 c5 1/2",
+    "FEN": "rnbqkb1r/pp1ppppp/5n2/2p5/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq c6 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/528.svg"
+}

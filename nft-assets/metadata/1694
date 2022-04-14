@@ -1,0 +1,8 @@
+{
+    "tokenid": 1694,
+    "eco": "C23",
+    "name": "Bishop's Opening: McDonnell Gambit",
+    "pgn": "1. e4 e5 2. Bc4 Bc5 3. b4 1/2",
+    "FEN": "rnbqk1nr/pppp1ppp/8/2b1p3/1PB1P3/8/P1PP1PPP/RNBQK1NR b KQkq b3 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1694.svg"
+}

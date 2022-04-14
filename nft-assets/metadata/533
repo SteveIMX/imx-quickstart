@@ -1,0 +1,8 @@
+{
+    "tokenid": 533,
+    "eco": "A45",
+    "name": "Trompowsky Attack",
+    "pgn": "1. d4 Nf6 2. Bg5 1/2",
+    "FEN": "rnbqkb1r/pppppppp/5n2/6B1/3P4/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/533.svg"
+}

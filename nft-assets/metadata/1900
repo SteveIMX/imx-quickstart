@@ -1,0 +1,8 @@
+{
+    "tokenid": 1900,
+    "eco": "C37",
+    "name": "King's Gambit Accepted: Ghulam-Kassim Gambit",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. d4 1/2",
+    "FEN": "rnbqkbnr/pppp1p1p/8/8/2BPPpp1/5N2/PPP3PP/RNBQK2R b KQkq d3 0 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1900.svg"
+}

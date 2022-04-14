@@ -1,0 +1,8 @@
+{
+    "tokenid": 1500,
+    "eco": "C02",
+    "name": "French Defense: Advance Variation, Frenkel Gambit",
+    "pgn": "1. e4 e6 2. d4 d5 3. e5 c5 4. b4 1/2",
+    "FEN": "rnbqkbnr/pp3ppp/4p3/2ppP3/1P1P4/8/P1P2PPP/RNBQKBNR b KQkq b3 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1500.svg"
+}

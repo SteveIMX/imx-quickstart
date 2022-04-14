@@ -1,0 +1,8 @@
+{
+    "tokenid": 209,
+    "eco": "A04",
+    "name": "Zukertort Opening: Kingside Fianchetto",
+    "pgn": "1. Nf3 g6 1/2",
+    "FEN": "rnbqkbnr/pppppp1p/6p1/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/209.svg"
+}

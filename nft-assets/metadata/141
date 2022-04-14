@@ -1,0 +1,8 @@
+{
+    "tokenid": 141,
+    "eco": "A00",
+    "name": "Van't Kruijs Opening",
+    "pgn": "1. e3 1/2",
+    "FEN": "rnbqkbnr/pppppppp/8/8/8/4P3/PPPP1PPP/RNBQKBNR b KQkq - 0 1",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/141.svg"
+}

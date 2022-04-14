@@ -1,0 +1,8 @@
+{
+    "tokenid": 2929,
+    "eco": "D40",
+    "name": "Queen's Gambit Declined: Semi-Tarrasch Defense",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 1/2",
+    "FEN": "rnbqkb1r/pp3ppp/4pn2/2pp4/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq c6 0 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2929.svg"
+}

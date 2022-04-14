@@ -1,0 +1,8 @@
+{
+    "tokenid": 1179,
+    "eco": "B27",
+    "name": "Sicilian Defense: Hyperaccelerated Fianchetto",
+    "pgn": "1. e4 c5 2. Nf3 g6 3. d4 1/2",
+    "FEN": "rnbqkbnr/pp1ppp1p/6p1/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq d3 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1179.svg"
+}

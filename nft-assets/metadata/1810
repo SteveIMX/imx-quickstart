@@ -1,0 +1,8 @@
+{
+    "tokenid": 1810,
+    "eco": "C31",
+    "name": "King's Gambit Declined: Falkbeer Countergambit, Hinrichsen Gambit",
+    "pgn": "1. e4 e5 2. f4 d5 3. d4 1/2",
+    "FEN": "rnbqkbnr/ppp2ppp/8/3pp3/3PPP2/8/PPP3PP/RNBQKBNR b KQkq d3 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1810.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 2515,
+    "eco": "C78",
+    "name": "Ruy Lopez: Morphy Defense",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O 1/2",
+    "FEN": "r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 3 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2515.svg"
+}

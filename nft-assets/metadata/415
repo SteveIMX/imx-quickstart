@@ -1,0 +1,8 @@
+{
+    "tokenid": 415,
+    "eco": "A39",
+    "name": "English Opening: Symmetrical Variation, Mecking Variation",
+    "pgn": "1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O O-O 7. d4 1/2",
+    "FEN": "r1bq1rk1/pp1pppbp/2n2np1/2p5/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 b - d3 0 7",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/415.svg"
+}

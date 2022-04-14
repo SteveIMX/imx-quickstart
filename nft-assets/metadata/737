@@ -1,0 +1,8 @@
+{
+    "tokenid": 737,
+    "eco": "B00",
+    "name": "Goldsmith Defense",
+    "pgn": "1. e4 h5 1/2",
+    "FEN": "rnbqkbnr/ppppppp1/8/7p/4P3/8/PPPP1PPP/RNBQKBNR w KQkq h6 0 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/737.svg"
+}

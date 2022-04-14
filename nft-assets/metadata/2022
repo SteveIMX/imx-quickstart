@@ -1,0 +1,8 @@
+{
+    "tokenid": 2022,
+    "eco": "C41",
+    "name": "Philidor Defense: Hanham, Kmoch Variation",
+    "pgn": "1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 c6 5. Ng5 1/2",
+    "FEN": "r1bqkbnr/pp1n1ppp/2pp4/4p1N1/2BPP3/8/PPP2PPP/RNBQK2R b KQkq - 1 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2022.svg"
+}

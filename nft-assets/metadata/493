@@ -1,0 +1,8 @@
+{
+    "tokenid": 493,
+    "eco": "A43",
+    "name": "Benoni Defense: Benoni-Staunton Gambit",
+    "pgn": "1. d4 c5 2. d5 f5 3. e4 1/2",
+    "FEN": "rnbqkbnr/pp1pp1pp/8/2pP1p2/4P3/8/PPP2PPP/RNBQKBNR b KQkq e3 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/493.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1690,
+    "eco": "C23",
+    "name": "Bishop's Opening: Lisitsyn Variation",
+    "pgn": "1. e4 e5 2. Bc4 c6 3. d4 d5 4. exd5 cxd5 5. Bb5+ Bd7 6. Bxd7+ Nxd7 7. dxe5 Nxe5 8. Ne2 1/2",
+    "FEN": "r2qkbnr/pp3ppp/8/3pn3/8/8/PPP1NPPP/RNBQK2R b KQkq - 1 8",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1690.svg"
+}

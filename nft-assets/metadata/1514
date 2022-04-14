@@ -1,0 +1,8 @@
+{
+    "tokenid": 1514,
+    "eco": "C03",
+    "name": "French Defense: Tarrasch Variation, Haberditz Variation",
+    "pgn": "1. e4 e6 2. d4 d5 3. Nd2 f5 1/2",
+    "FEN": "rnbqkbnr/ppp3pp/4p3/3p1p2/3PP3/8/PPPN1PPP/R1BQKBNR w KQkq f6 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1514.svg"
+}

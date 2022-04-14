@@ -1,0 +1,8 @@
+{
+    "tokenid": 987,
+    "eco": "B10",
+    "name": "Caro-Kann Defense",
+    "pgn": "1. e4 c6 2. Nc3 d5 1/2",
+    "FEN": "rnbqkbnr/pp2pppp/2p5/3p4/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq d6 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/987.svg"
+}

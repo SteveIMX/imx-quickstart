@@ -1,0 +1,8 @@
+{
+    "tokenid": 3023,
+    "eco": "D61",
+    "name": "Queen's Gambit Declined: Orthodox Defense, Rubinstein Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Qc2 1/2",
+    "FEN": "r1bq1rk1/pppnbppp/4pn2/3p2B1/2PP4/2N1PN2/PPQ2PPP/R3KB1R b KQ - 2 7",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/3023.svg"
+}

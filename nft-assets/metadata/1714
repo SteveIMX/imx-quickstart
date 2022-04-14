@@ -1,0 +1,8 @@
+{
+    "tokenid": 1714,
+    "eco": "C25",
+    "name": "Vienna Game: Fyfe Gambit",
+    "pgn": "1. e4 e5 2. Nc3 Nc6 3. d4 1/2",
+    "FEN": "r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq d3 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1714.svg"
+}

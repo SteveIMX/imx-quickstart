@@ -1,0 +1,8 @@
+{
+    "tokenid": 2109,
+    "eco": "C44",
+    "name": "Latvian Gambit: Clam Gambit",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. d3 f5 4. exf5 1/2",
+    "FEN": "r1bqkbnr/pppp2pp/2n5/4pP2/8/3P1N2/PPP2PPP/RNBQKB1R b KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2109.svg"
+}

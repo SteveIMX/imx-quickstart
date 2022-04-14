@@ -1,0 +1,8 @@
+{
+    "tokenid": 3212,
+    "eco": "E21",
+    "name": "Nimzo-Indian Defense: Romanishin Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 O-O 6. Bg2 1/2",
+    "FEN": "rnbq1rk1/pp1p1ppp/4pn2/2p5/1bPP4/2N2NP1/PP2PPBP/R1BQK2R b KQ - 2 6",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/3212.svg"
+}

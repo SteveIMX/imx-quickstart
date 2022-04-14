@@ -1,0 +1,8 @@
+{
+    "tokenid": 2035,
+    "eco": "C41",
+    "name": "Philidor Defense: Nimzowitsch Variation",
+    "pgn": "1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 1/2",
+    "FEN": "rnbqkb1r/ppp2ppp/3p1n2/4P3/4P3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2035.svg"
+}

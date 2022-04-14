@@ -1,0 +1,8 @@
+{
+    "tokenid": 1904,
+    "eco": "C37",
+    "name": "King's Gambit Accepted: Lolli Gambit",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Bxf7+ 1/2",
+    "FEN": "rnbqkbnr/pppp1B1p/8/8/4Ppp1/5N2/PPPP2PP/RNBQK2R b KQkq - 0 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1904.svg"
+}

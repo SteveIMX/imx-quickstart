@@ -1,0 +1,8 @@
+{
+    "tokenid": 2067,
+    "eco": "C42",
+    "name": "Russian Game: Classical Attack, Staunton Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4 c6 1/2",
+    "FEN": "rnbq1rk1/pp3ppp/2pb4/3p4/2PPn3/3B1N2/PP3PPP/RNBQ1RK1 w - - 0 9",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2067.svg"
+}

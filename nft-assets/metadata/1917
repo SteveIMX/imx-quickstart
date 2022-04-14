@@ -1,0 +1,8 @@
+{
+    "tokenid": 1917,
+    "eco": "C37",
+    "name": "King's Gambit Accepted: Rosentreter Gambit, S\u00f6rensen Gambit",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. d4 g4 5. Nc3 1/2",
+    "FEN": "rnbqkbnr/pppp1p1p/8/8/3PPpp1/2N2N2/PPP3PP/R1BQKB1R b KQkq - 1 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1917.svg"
+}

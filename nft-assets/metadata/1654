@@ -1,0 +1,8 @@
+{
+    "tokenid": 1654,
+    "eco": "C21",
+    "name": "Center Game: Halasz-McDonnell Gambit",
+    "pgn": "1. e4 e5 2. d4 exd4 3. f4 1/2",
+    "FEN": "rnbqkbnr/pppp1ppp/8/8/3pPP2/8/PPP3PP/RNBQKBNR b KQkq f3 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1654.svg"
+}

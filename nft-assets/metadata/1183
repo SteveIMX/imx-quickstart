@@ -1,0 +1,8 @@
+{
+    "tokenid": 1183,
+    "eco": "B27",
+    "name": "Sicilian Defense: Katalimov Variation",
+    "pgn": "1. e4 c5 2. Nf3 b6 1/2",
+    "FEN": "rnbqkbnr/p2ppppp/1p6/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1183.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 765,
+    "eco": "B00",
+    "name": "Nimzowitsch Defense: Kennedy Variation, Main Line",
+    "pgn": "1. e4 Nc6 2. d4 e5 3. dxe5 Nxe5 4. f4 Ng6 1/2",
+    "FEN": "r1bqkbnr/pppp1ppp/6n1/8/4PP2/8/PPP3PP/RNBQKBNR w KQkq - 1 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/765.svg"
+}

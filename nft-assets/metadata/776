@@ -1,0 +1,8 @@
+{
+    "tokenid": 776,
+    "eco": "B00",
+    "name": "Nimzowitsch Defense: Scandinavian Variation, Aachen Gambit",
+    "pgn": "1. e4 Nc6 2. d4 d5 3. exd5 Nb4 1/2",
+    "FEN": "r1bqkbnr/ppp1pppp/8/3P4/1n1P4/8/PPP2PPP/RNBQKBNR w KQkq - 1 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/776.svg"
+}

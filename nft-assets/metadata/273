@@ -1,0 +1,8 @@
+{
+    "tokenid": 273,
+    "eco": "A10",
+    "name": "English Opening",
+    "pgn": "1. c4 1/2",
+    "FEN": "rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq c3 0 1",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/273.svg"
+}

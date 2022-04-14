@@ -1,0 +1,8 @@
+{
+    "tokenid": 30,
+    "eco": "A00",
+    "name": "Grob Opening: Double Grob",
+    "pgn": "1. g4 g5 1/2",
+    "FEN": "rnbqkbnr/pppppp1p/8/6p1/6P1/8/PPPPPP1P/RNBQKBNR w KQkq g6 0 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/30.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 3061,
+    "eco": "D80",
+    "name": "Gr\u00fcnfeld Defense: Lundin Variation",
+    "pgn": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Nxe4 dxe4 6. Qd2 c5 1/2",
+    "FEN": "rnbqkb1r/pp2pp1p/6p1/2p3B1/2PPp3/8/PP1QPPPP/R3KBNR w KQkq c6 0 7",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/3061.svg"
+}

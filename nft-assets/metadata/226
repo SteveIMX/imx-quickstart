@@ -1,0 +1,8 @@
+{
+    "tokenid": 226,
+    "eco": "A05",
+    "name": "King's Indian Attack",
+    "pgn": "1. Nf3 Nf6 2. g3 d5 1/2",
+    "FEN": "rnbqkb1r/ppp1pppp/5n2/3p4/8/5NP1/PPPPPP1P/RNBQKB1R w KQkq d6 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/226.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 836,
+    "eco": "B01",
+    "name": "Scandinavian Defense: Modern Variation",
+    "pgn": "1. e4 d5 2. exd5 Nf6 1/2",
+    "FEN": "rnbqkb1r/ppp1pppp/5n2/3P4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/836.svg"
+}

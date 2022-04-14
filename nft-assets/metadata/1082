@@ -1,0 +1,8 @@
+{
+    "tokenid": 1082,
+    "eco": "B20",
+    "name": "Sicilian Defense: Big Clamp Formation",
+    "pgn": "1. e4 c5 2. d3 Nc6 3. c3 d6 4. f4 1/2",
+    "FEN": "r1bqkbnr/pp2pppp/2np4/2p5/4PP2/2PP4/PP4PP/RNBQKBNR b KQkq f3 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1082.svg"
+}

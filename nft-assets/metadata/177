@@ -1,0 +1,8 @@
+{
+    "tokenid": 177,
+    "eco": "A02",
+    "name": "Bird Opening: Hobbs Gambit",
+    "pgn": "1. f4 g5 1/2",
+    "FEN": "rnbqkbnr/pppppp1p/8/6p1/5P2/8/PPPPP1PP/RNBQKBNR w KQkq g6 0 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/177.svg"
+}

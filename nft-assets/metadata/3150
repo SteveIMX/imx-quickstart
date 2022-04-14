@@ -1,0 +1,8 @@
+{
+    "tokenid": 3150,
+    "eco": "E11",
+    "name": "Bogo-Indian Defense: Gr\u00fcnfeld Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 1/2",
+    "FEN": "rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP1NPPPP/R1BQKB1R b KQkq - 3 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/3150.svg"
+}

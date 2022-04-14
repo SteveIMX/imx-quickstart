@@ -1,0 +1,8 @@
+{
+    "tokenid": 536,
+    "eco": "A45",
+    "name": "Trompowsky Attack: Classical Defense, Big Center Variation",
+    "pgn": "1. d4 Nf6 2. Bg5 e6 3. e4 1/2",
+    "FEN": "rnbqkb1r/pppp1ppp/4pn2/6B1/3PP3/8/PPP2PPP/RN1QKBNR b KQkq e3 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/536.svg"
+}

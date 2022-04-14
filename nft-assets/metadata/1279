@@ -1,0 +1,8 @@
+{
+    "tokenid": 1279,
+    "eco": "B42",
+    "name": "Sicilian Defense: Kan Variation, Gipslis Variation",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 g6 1/2",
+    "FEN": "rnbqkb1r/1p3p1p/p2ppnp1/8/2PNP3/3B4/PP3PPP/RNBQ1RK1 w kq - 0 8",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1279.svg"
+}

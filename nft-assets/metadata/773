@@ -1,0 +1,8 @@
+{
+    "tokenid": 773,
+    "eco": "B00",
+    "name": "Nimzowitsch Defense: Pirc Connection",
+    "pgn": "1. e4 Nc6 2. Nc3 g6 1/2",
+    "FEN": "r1bqkbnr/pppppp1p/2n3p1/8/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/773.svg"
+}

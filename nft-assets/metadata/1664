@@ -1,0 +1,8 @@
+{
+    "tokenid": 1664,
+    "eco": "C21",
+    "name": "Danish Gambit",
+    "pgn": "1. e4 e5 2. d4 exd4 3. c3 1/2",
+    "FEN": "rnbqkbnr/pppp1ppp/8/8/3pP3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1664.svg"
+}

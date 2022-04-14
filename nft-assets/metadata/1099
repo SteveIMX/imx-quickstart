@@ -1,0 +1,8 @@
+{
+    "tokenid": 1099,
+    "eco": "B20",
+    "name": "Sicilian Defense: Wing Gambit, Abrahams Variation",
+    "pgn": "1. e4 c5 2. b4 cxb4 3. Bb2 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/8/1p2P3/8/PBPP1PPP/RN1QKBNR b KQkq - 1 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1099.svg"
+}

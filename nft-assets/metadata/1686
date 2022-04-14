@@ -1,0 +1,8 @@
+{
+    "tokenid": 1686,
+    "eco": "C23",
+    "name": "Bishop's Opening: Lewis Countergambit",
+    "pgn": "1. e4 e5 2. Bc4 Bc5 3. c3 d5 1/2",
+    "FEN": "rnbqk1nr/ppp2ppp/8/2bpp3/2B1P3/2P5/PP1P1PPP/RNBQK1NR w KQkq d6 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1686.svg"
+}

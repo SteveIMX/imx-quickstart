@@ -1,0 +1,8 @@
+{
+    "tokenid": 3072,
+    "eco": "D84",
+    "name": "Gr\u00fcnfeld Defense: Brinckmann Attack, Gr\u00fcnfeld Gambit Accepted",
+    "pgn": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. cxd5 Nxd5 7. Nxd5 Qxd5 8. Bxc7 1/2",
+    "FEN": "rnb2rk1/ppB1ppbp/6p1/3q4/3P4/4P3/PP3PPP/R2QKBNR b KQ - 0 8",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/3072.svg"
+}

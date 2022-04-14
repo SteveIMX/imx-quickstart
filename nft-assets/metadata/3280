@@ -1,0 +1,8 @@
+{
+    "tokenid": 3280,
+    "eco": "E54",
+    "name": "Nimzo-Indian Defense: Normal Variation, Gligoric System, Exchange at c4",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4 1/2",
+    "FEN": "rnbq1rk1/pp3ppp/4pn2/2p5/1bBP4/2N1PN2/PP3PPP/R1BQ1RK1 b - - 0 8",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/3280.svg"
+}

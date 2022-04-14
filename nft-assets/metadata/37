@@ -1,0 +1,8 @@
+{
+    "tokenid": 37,
+    "eco": "A00",
+    "name": "Grob Opening: Grob Gambit, Keres Gambit",
+    "pgn": "1. g4 d5 2. Bg2 e5 3. d4 exd4 4. c3 1/2",
+    "FEN": "rnbqkbnr/ppp2ppp/8/3p4/3p2P1/2P5/PP2PPBP/RNBQK1NR b KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/37.svg"
+}

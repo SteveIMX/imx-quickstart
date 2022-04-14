@@ -1,0 +1,8 @@
+{
+    "tokenid": 3258,
+    "eco": "E41",
+    "name": "Nimzo-Indian Defense: Normal Variation, H\u00fcbner Deferred",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 O-O 1/2",
+    "FEN": "rnbq1rk1/pp1p1ppp/4pn2/2p5/1bPP4/2N1PN2/PP3PPP/R1BQKB1R w KQ - 2 6",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/3258.svg"
+}

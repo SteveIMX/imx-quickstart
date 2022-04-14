@@ -1,0 +1,8 @@
+{
+    "tokenid": 2370,
+    "eco": "C57",
+    "name": "Italian Game: Two Knights Defense, Traxler Counterattack, King March Line",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Kxf2 Nxe4+ 7. Ke3 1/2",
+    "FEN": "r1bqk2r/pppp1Npp/2n5/4p3/2B1n3/4K3/PPPP2PP/RNBQ3R b kq - 1 7",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2370.svg"
+}

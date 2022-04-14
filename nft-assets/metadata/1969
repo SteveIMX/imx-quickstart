@@ -1,0 +1,8 @@
+{
+    "tokenid": 1969,
+    "eco": "C40",
+    "name": "King's Knight Opening",
+    "pgn": "1. e4 e5 2. Nf3 1/2",
+    "FEN": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1969.svg"
+}

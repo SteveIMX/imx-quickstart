@@ -1,0 +1,8 @@
+{
+    "tokenid": 747,
+    "eco": "B00",
+    "name": "Nimzowitsch Defense",
+    "pgn": "1. e4 Nc6 1/2",
+    "FEN": "r1bqkbnr/pppppppp/2n5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/747.svg"
+}

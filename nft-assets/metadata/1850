@@ -1,0 +1,8 @@
+{
+    "tokenid": 1850,
+    "eco": "C33",
+    "name": "King's Gambit Accepted: Bishop's Gambit, Lopez Defense",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Bc4 c6 1/2",
+    "FEN": "rnbqkbnr/pp1p1ppp/2p5/8/2B1Pp2/8/PPPP2PP/RNBQK1NR w KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1850.svg"
+}

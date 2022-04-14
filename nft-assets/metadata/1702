@@ -1,0 +1,8 @@
+{
+    "tokenid": 1702,
+    "eco": "C23",
+    "name": "Bishop's Opening: del Rio Variation",
+    "pgn": "1. e4 e5 2. Bc4 Bc5 3. c3 Qg5 1/2",
+    "FEN": "rnb1k1nr/pppp1ppp/8/2b1p1q1/2B1P3/2P5/PP1P1PPP/RNBQK1NR w KQkq - 1 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1702.svg"
+}

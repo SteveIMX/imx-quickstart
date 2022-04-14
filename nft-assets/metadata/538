@@ -1,0 +1,8 @@
+{
+    "tokenid": 538,
+    "eco": "A45",
+    "name": "Trompowsky Attack: Edge Variation, Hergert Gambit",
+    "pgn": "1. d4 Nf6 2. Bg5 Ne4 3. Bh4 c6 4. Nd2 Qa5 5. c3 Nxd2 6. Qxd2 d5 7. e4 1/2",
+    "FEN": "rnb1kb1r/pp2pppp/2p5/q2p4/3PP2B/2P5/PP1Q1PPP/R3KBNR b KQkq e3 0 7",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/538.svg"
+}

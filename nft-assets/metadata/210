@@ -1,0 +1,8 @@
+{
+    "tokenid": 210,
+    "eco": "A04",
+    "name": "Zukertort Opening: Lisitsyn Gambit",
+    "pgn": "1. Nf3 f5 2. e4 1/2",
+    "FEN": "rnbqkbnr/ppppp1pp/8/5p2/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq e3 0 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/210.svg"
+}

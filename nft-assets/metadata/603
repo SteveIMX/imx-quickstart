@@ -1,0 +1,8 @@
+{
+    "tokenid": 603,
+    "eco": "A56",
+    "name": "Benoni Defense: Hrom\u00e1dka System",
+    "pgn": "1. d4 Nf6 2. c4 c5 3. d5 d6 1/2",
+    "FEN": "rnbqkb1r/pp2pppp/3p1n2/2pP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/603.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1839,
+    "eco": "C33",
+    "name": "King's Gambit Accepted: Bishop's Gambit, Chigorin's Attack",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 d5 5. Bxd5 g5 6. g3 1/2",
+    "FEN": "rnb1kbnr/ppp2p1p/8/3B2p1/4Pp1q/6P1/PPPP3P/RNBQ1KNR b kq - 0 6",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1839.svg"
+}

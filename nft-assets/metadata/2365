@@ -1,0 +1,8 @@
+{
+    "tokenid": 2365,
+    "eco": "C57",
+    "name": "Italian Game: Two Knights Defense, Lolli Attack",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 6. d4 1/2",
+    "FEN": "r1bqkb1r/ppp2ppp/2n5/3np1N1/2BP4/8/PPP2PPP/RNBQK2R b KQkq d3 0 6",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2365.svg"
+}

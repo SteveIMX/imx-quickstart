@@ -1,0 +1,8 @@
+{
+    "tokenid": 503,
+    "eco": "A43",
+    "name": "Benoni Defense: Woozle",
+    "pgn": "1. d4 c5 2. d5 Nf6 3. Nc3 Qa5 1/2",
+    "FEN": "rnb1kb1r/pp1ppppp/5n2/q1pP4/8/2N5/PPP1PPPP/R1BQKBNR w KQkq - 3 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/503.svg"
+}

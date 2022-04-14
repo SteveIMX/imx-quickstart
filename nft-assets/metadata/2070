@@ -1,0 +1,8 @@
+{
+    "tokenid": 2070,
+    "eco": "C42",
+    "name": "Russian Game: Cochrane Gambit, Bishop Check Line",
+    "pgn": "1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nxf7 Kxf7 5. Bc4+ 1/2",
+    "FEN": "rnbq1b1r/ppp2kpp/3p1n2/8/2B1P3/8/PPPP1PPP/RNBQK2R b KQ - 1 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2070.svg"
+}

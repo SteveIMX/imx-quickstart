@@ -1,0 +1,8 @@
+{
+    "tokenid": 1089,
+    "eco": "B20",
+    "name": "Sicilian Defense: Kronberger Variation",
+    "pgn": "1. e4 c5 2. Na3 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/4P3/N7/PPPP1PPP/R1BQKBNR b KQkq - 1 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1089.svg"
+}

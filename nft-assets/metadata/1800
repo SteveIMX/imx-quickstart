@@ -1,0 +1,8 @@
+{
+    "tokenid": 1800,
+    "eco": "C30",
+    "name": "King's Gambit Declined: Senechaud Countergambit",
+    "pgn": "1. e4 e5 2. f4 Bc5 3. Nf3 g5 1/2",
+    "FEN": "rnbqk1nr/pppp1p1p/8/2b1p1p1/4PP2/5N2/PPPP2PP/RNBQKB1R w KQkq g6 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1800.svg"
+}

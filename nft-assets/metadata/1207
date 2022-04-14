@@ -1,0 +1,8 @@
+{
+    "tokenid": 1207,
+    "eco": "B29",
+    "name": "Sicilian Defense: Nimzowitsch Variation",
+    "pgn": "1. e4 c5 2. Nf3 Nf6 1/2",
+    "FEN": "rnbqkb1r/pp1ppppp/5n2/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1207.svg"
+}

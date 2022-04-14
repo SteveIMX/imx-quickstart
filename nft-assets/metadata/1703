@@ -1,0 +1,8 @@
+{
+    "tokenid": 1703,
+    "eco": "C24",
+    "name": "Bishop's Opening: Berlin Defense",
+    "pgn": "1. e4 e5 2. Bc4 Nf6 1/2",
+    "FEN": "rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1703.svg"
+}

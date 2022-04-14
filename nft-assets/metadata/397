@@ -1,0 +1,8 @@
+{
+    "tokenid": 397,
+    "eco": "A32",
+    "name": "English Opening: Symmetrical Variation, Anti-Benoni Variation, Spielmann Defense",
+    "pgn": "1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e6 1/2",
+    "FEN": "rnbqkb1r/pp1p1ppp/4pn2/8/2PN4/8/PP2PPPP/RNBQKB1R w KQkq - 0 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/397.svg"
+}
