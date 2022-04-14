@@ -1,0 +1,8 @@
+{
+    "tokenid": 2170,
+    "eco": "C45",
+    "name": "Scotch Game: Modern Defense",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Nc3 Bb4 1/2",
+    "FEN": "r1b1k1nr/pppp1ppp/2n5/8/1b1NP2q/2N5/PPP2PPP/R1BQKB1R w KQkq - 3 6",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2170.svg"
+}

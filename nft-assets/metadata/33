@@ -1,0 +1,8 @@
+{
+    "tokenid": 33,
+    "eco": "A00",
+    "name": "Grob Opening: Grob Gambit Declined",
+    "pgn": "1. g4 d5 2. Bg2 c6 1/2",
+    "FEN": "rnbqkbnr/pp2pppp/2p5/3p4/6P1/8/PPPPPPBP/RNBQK1NR w KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/33.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 2852,
+    "eco": "D30",
+    "name": "Queen's Gambit Declined: Traditional Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 1/2",
+    "FEN": "rnbqkb1r/ppp2ppp/4pn2/3p2B1/2PP4/5N2/PP2PPPP/RN1QKB1R b KQkq - 1 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2852.svg"
+}

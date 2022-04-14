@@ -1,0 +1,8 @@
+{
+    "tokenid": 2797,
+    "eco": "D20",
+    "name": "Queen's Gambit Accepted: Central Variation, Greco Variation",
+    "pgn": "1. d4 d5 2. c4 dxc4 3. e4 b5 1/2",
+    "FEN": "rnbqkbnr/p1p1pppp/8/1p6/2pPP3/8/PP3PPP/RNBQKBNR w KQkq b6 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2797.svg"
+}

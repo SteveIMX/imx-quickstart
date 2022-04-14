@@ -1,0 +1,8 @@
+{
+    "tokenid": 1413,
+    "eco": "B86",
+    "name": "Sicilian Defense: Sozin Attack",
+    "pgn": "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 1/2",
+    "FEN": "rnbqkb1r/pp3ppp/3ppn2/8/2BNP3/2N5/PPP2PPP/R1BQK2R b KQkq - 1 6",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1413.svg"
+}

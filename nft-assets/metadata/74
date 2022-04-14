@@ -1,0 +1,8 @@
+{
+    "tokenid": 74,
+    "eco": "A00",
+    "name": "Kadas Opening: Schneider Gambit",
+    "pgn": "1. h4 g5 1/2",
+    "FEN": "rnbqkbnr/pppppp1p/8/6p1/7P/8/PPPPPPP1/RNBQKBNR w KQkq g6 0 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/74.svg"
+}

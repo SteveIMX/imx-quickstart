@@ -1,0 +1,8 @@
+{
+    "tokenid": 2088,
+    "eco": "C43",
+    "name": "Russian Game: Modern Attack",
+    "pgn": "1. e4 e5 2. Nf3 Nf6 3. d4 1/2",
+    "FEN": "rnbqkb1r/pppp1ppp/5n2/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq d3 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2088.svg"
+}

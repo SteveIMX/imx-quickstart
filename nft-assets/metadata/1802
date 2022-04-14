@@ -1,0 +1,8 @@
+{
+    "tokenid": 1802,
+    "eco": "C30",
+    "name": "King's Gambit Declined: Zilbermints Double Gambit",
+    "pgn": "1. e4 e5 2. f4 Nc6 3. Nf3 g5 1/2",
+    "FEN": "r1bqkbnr/pppp1p1p/2n5/4p1p1/4PP2/5N2/PPPP2PP/RNBQKB1R w KQkq g6 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1802.svg"
+}

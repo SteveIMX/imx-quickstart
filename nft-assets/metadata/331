@@ -1,0 +1,8 @@
+{
+    "tokenid": 331,
+    "eco": "A15",
+    "name": "English Opening: Anglo-Indian Defense, Scandinavian Defense, Exchange Variation",
+    "pgn": "1. Nf3 Nf6 2. c4 d5 3. cxd5 Nxd5 1/2",
+    "FEN": "rnbqkb1r/ppp1pppp/8/3n4/8/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/331.svg"
+}

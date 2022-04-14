@@ -1,0 +1,8 @@
+{
+    "tokenid": 1596,
+    "eco": "C15",
+    "name": "French Defense: Winawer Variation, Delayed Exchange Variation",
+    "pgn": "1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 1/2",
+    "FEN": "rnbqk1nr/ppp2ppp/4p3/3P4/1b1P4/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1596.svg"
+}

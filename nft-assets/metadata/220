@@ -1,0 +1,8 @@
+{
+    "tokenid": 220,
+    "eco": "A04",
+    "name": "Zukertort Opening: Speelsmet Gambit",
+    "pgn": "1. Nf3 c5 2. d4 cxd4 3. e3 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/8/3p4/4PN2/PPP2PPP/RNBQKB1R b KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/220.svg"
+}

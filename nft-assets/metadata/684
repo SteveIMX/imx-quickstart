@@ -1,0 +1,8 @@
+{
+    "tokenid": 684,
+    "eco": "A82",
+    "name": "Dutch Defense: Staunton Gambit Accepted",
+    "pgn": "1. d4 f5 2. e4 fxe4 1/2",
+    "FEN": "rnbqkbnr/ppppp1pp/8/8/3Pp3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/684.svg"
+}

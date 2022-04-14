@@ -1,0 +1,8 @@
+{
+    "tokenid": 2694,
+    "eco": "D02",
+    "name": "Queen's Pawn Game: Symmetrical Variation",
+    "pgn": "1. d4 d5 2. Nf3 Nf6 1/2",
+    "FEN": "rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2694.svg"
+}

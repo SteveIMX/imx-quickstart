@@ -1,0 +1,8 @@
+{
+    "tokenid": 922,
+    "eco": "B06",
+    "name": "Modern Defense: Semi-Averbakh Variation, Pterodactyl Variation Declined",
+    "pgn": "1. e4 g6 2. d4 Bg7 3. c4 c5 4. Nf3 d6 5. Be2 Qa5+ 1/2",
+    "FEN": "rnb1k1nr/pp2ppbp/3p2p1/q1p5/2PPP3/5N2/PP2BPPP/RNBQK2R w KQkq - 2 6",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/922.svg"
+}

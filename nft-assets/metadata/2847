@@ -1,0 +1,8 @@
+{
+    "tokenid": 2847,
+    "eco": "D30",
+    "name": "Queen's Gambit Declined: Semmering Variation",
+    "pgn": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. Nbd2 Nbd7 6. Bd3 c5 1/2",
+    "FEN": "r1bqkb1r/pp1n1ppp/4pn2/2pp4/2PP4/3BPN2/PP1N1PPP/R1BQK2R w KQkq - 0 7",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2847.svg"
+}

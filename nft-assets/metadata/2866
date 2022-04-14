@@ -1,0 +1,8 @@
+{
+    "tokenid": 2866,
+    "eco": "D31",
+    "name": "Semi-Slav Defense: Anti-Noteboom, Stonewall Variation, Portisch Gambit",
+    "pgn": "1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 f5 5. g4 1/2",
+    "FEN": "rnbqkbnr/pp4pp/2p1p3/3p1p2/2PP2P1/2N1P3/PP3P1P/R1BQKBNR b KQkq g3 0 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2866.svg"
+}

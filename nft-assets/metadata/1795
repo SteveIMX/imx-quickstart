@@ -1,0 +1,8 @@
+{
+    "tokenid": 1795,
+    "eco": "C30",
+    "name": "King's Gambit Declined: Panteldakis Countergambit, Schiller's Defense",
+    "pgn": "1. e4 e5 2. f4 f5 3. exf5 Bc5 1/2",
+    "FEN": "rnbqk1nr/pppp2pp/8/2b1pP2/5P2/8/PPPP2PP/RNBQKBNR w KQkq - 1 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1795.svg"
+}

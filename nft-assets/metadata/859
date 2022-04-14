@@ -1,0 +1,8 @@
+{
+    "tokenid": 859,
+    "eco": "B02",
+    "name": "Alekhine Defense: Mar\u00f3czy Variation",
+    "pgn": "1. e4 Nf6 2. d3 1/2",
+    "FEN": "rnbqkb1r/pppppppp/5n2/8/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/859.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 498,
+    "eco": "A43",
+    "name": "Benoni Defense: Old Benoni",
+    "pgn": "1. d4 c5 2. d5 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/2pP4/8/8/PPP1PPPP/RNBQKBNR b KQkq - 0 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/498.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 3292,
+    "eco": "E60",
+    "name": "Indian Defense: West Indian Defense",
+    "pgn": "1. d4 Nf6 2. c4 g6 1/2",
+    "FEN": "rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/3292.svg"
+}

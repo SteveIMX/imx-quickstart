@@ -1,0 +1,8 @@
+{
+    "tokenid": 55,
+    "eco": "A00",
+    "name": "Hungarian Opening: Myers Defense",
+    "pgn": "1. g3 g5 1/2",
+    "FEN": "rnbqkbnr/pppppp1p/8/6p1/8/6P1/PPPPPP1P/RNBQKBNR w KQkq g6 0 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/55.svg"
+}

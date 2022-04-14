@@ -1,0 +1,8 @@
+{
+    "tokenid": 218,
+    "eco": "A04",
+    "name": "Zukertort Opening: Sicilian Invitation",
+    "pgn": "1. Nf3 c5 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/8/5N2/PPPPPPPP/RNBQKB1R w KQkq c6 0 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/218.svg"
+}

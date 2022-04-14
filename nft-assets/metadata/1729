@@ -1,0 +1,8 @@
+{
+    "tokenid": 1729,
+    "eco": "C25",
+    "name": "Vienna Game: Vienna Gambit, Hamppe-Allgaier Gambit",
+    "pgn": "1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. h4 g4 6. Ng5 1/2",
+    "FEN": "r1bqkbnr/pppp1p1p/2n5/6N1/4PppP/2N5/PPPP2P1/R1BQKB1R b KQkq - 1 6",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1729.svg"
+}

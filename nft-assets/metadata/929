@@ -1,0 +1,8 @@
+{
+    "tokenid": 929,
+    "eco": "B06",
+    "name": "Modern Defense: Westermann Gambit",
+    "pgn": "1. e4 g6 2. d4 Bg7 3. Bd2 1/2",
+    "FEN": "rnbqk1nr/ppppppbp/6p1/8/3PP3/8/PPPB1PPP/RN1QKBNR b KQkq - 2 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/929.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 225,
+    "eco": "A04",
+    "name": "Zukertort Opening: Ware Defense",
+    "pgn": "1. Nf3 a5 1/2",
+    "FEN": "rnbqkbnr/1ppppppp/8/p7/8/5N2/PPPPPPPP/RNBQKB1R w KQkq a6 0 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/225.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1930,
+    "eco": "C38",
+    "name": "King's Gambit Accepted: Philidor Gambit",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. h4 1/2",
+    "FEN": "rnbqk1nr/pppp1pbp/8/6p1/2B1Pp1P/5N2/PPPP2P1/RNBQK2R b KQkq h3 0 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1930.svg"
+}

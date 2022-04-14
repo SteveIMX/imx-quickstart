@@ -1,0 +1,8 @@
+{
+    "tokenid": 1224,
+    "eco": "B32",
+    "name": "Sicilian Defense: Franco-Sicilian Variation",
+    "pgn": "1. e4 c5 2. Nf3 Nc6 3. d4 e6 1/2",
+    "FEN": "r1bqkbnr/pp1p1ppp/2n1p3/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1224.svg"
+}

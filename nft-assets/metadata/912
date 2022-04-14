@@ -1,0 +1,8 @@
+{
+    "tokenid": 912,
+    "eco": "B06",
+    "name": "Modern Defense: Fianchetto Gambit",
+    "pgn": "1. e4 g6 2. d4 f5 1/2",
+    "FEN": "rnbqkbnr/ppppp2p/6p1/5p2/3PP3/8/PPP2PPP/RNBQKBNR w KQkq f6 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/912.svg"
+}

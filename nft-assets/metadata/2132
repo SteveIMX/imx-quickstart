@@ -1,0 +1,8 @@
+{
+    "tokenid": 2132,
+    "eco": "C44",
+    "name": "Scotch Game: G\u00f6ring Gambit, Double Pawn Sacrifice",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 1/2",
+    "FEN": "r1bqkbnr/pppp1ppp/2n5/8/2B1P3/2p2N2/PP3PPP/RNBQK2R b KQkq - 1 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2132.svg"
+}

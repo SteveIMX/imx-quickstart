@@ -1,0 +1,8 @@
+{
+    "tokenid": 762,
+    "eco": "B00",
+    "name": "Nimzowitsch Defense: Kennedy Variation, Herford Gambit",
+    "pgn": "1. e4 Nc6 2. d4 e5 3. dxe5 Qh4 1/2",
+    "FEN": "r1b1kbnr/pppp1ppp/2n5/4P3/4P2q/8/PPP2PPP/RNBQKBNR w KQkq - 1 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/762.svg"
+}

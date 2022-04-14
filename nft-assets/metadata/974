@@ -1,0 +1,8 @@
+{
+    "tokenid": 974,
+    "eco": "B08",
+    "name": "Pirc Defense: Classical Variation, Quiet System, Czech Defense",
+    "pgn": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 1/2",
+    "FEN": "rnbq1rk1/pp2ppbp/2pp1np1/8/3PP3/2N2N2/PPP1BPPP/R1BQ1RK1 w - - 0 7",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/974.svg"
+}

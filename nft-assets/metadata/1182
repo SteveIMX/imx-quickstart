@@ -1,0 +1,8 @@
+{
+    "tokenid": 1182,
+    "eco": "B27",
+    "name": "Sicilian Defense: Jalalabad Variation",
+    "pgn": "1. e4 c5 2. Nf3 e5 1/2",
+    "FEN": "rnbqkbnr/pp1p1ppp/8/2p1p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq e6 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1182.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 2158,
+    "eco": "C45",
+    "name": "Scotch Game: Classical Variation, Intermezzo Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 1/2",
+    "FEN": "r1b1k1nr/pppp1ppp/2N2q2/2b5/4P3/8/PPP2PPP/RNBQKB1R w KQkq - 1 6",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2158.svg"
+}

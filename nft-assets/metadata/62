@@ -1,0 +1,8 @@
+{
+    "tokenid": 62,
+    "eco": "A00",
+    "name": "Hungarian Opening: Sicilian Invitation",
+    "pgn": "1. g3 c5 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/8/6P1/PPPPPP1P/RNBQKBNR w KQkq c6 0 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/62.svg"
+}

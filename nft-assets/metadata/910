@@ -1,0 +1,8 @@
+{
+    "tokenid": 910,
+    "eco": "B06",
+    "name": "Modern Defense: Bishop Attack, Monkey's Bum",
+    "pgn": "1. e4 g6 2. Bc4 Bg7 3. Qf3 e6 4. d4 Bxd4 1/2",
+    "FEN": "rnbqk1nr/pppp1p1p/4p1p1/8/2BbP3/5Q2/PPP2PPP/RNB1K1NR w KQkq - 0 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/910.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 367,
+    "eco": "A22",
+    "name": "English Opening: King's English, Erbenheimer Gambit",
+    "pgn": "1. c4 e5 2. Nc3 Nf6 3. Nf3 e4 4. Ng5 Ng4 1/2",
+    "FEN": "rnbqkb1r/pppp1ppp/8/6N1/2P1p1n1/2N5/PP1PPPPP/R1BQKB1R w KQkq - 2 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/367.svg"
+}

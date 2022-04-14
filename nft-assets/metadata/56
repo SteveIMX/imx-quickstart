@@ -1,0 +1,8 @@
+{
+    "tokenid": 56,
+    "eco": "A00",
+    "name": "Hungarian Opening: Pachman Gambit",
+    "pgn": "1. g3 f5 2. e4 fxe4 3. Qh5+ g6 1/2",
+    "FEN": "rnbqkbnr/ppppp2p/6p1/7Q/4p3/6P1/PPPP1P1P/RNB1KBNR w KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/56.svg"
+}

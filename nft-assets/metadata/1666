@@ -1,0 +1,8 @@
+{
+    "tokenid": 1666,
+    "eco": "C21",
+    "name": "Danish Gambit Accepted: Chigorin Defense",
+    "pgn": "1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 Qe7 1/2",
+    "FEN": "rnb1kbnr/ppppqppp/8/8/2B1P3/8/PB3PPP/RN1QK1NR w KQkq - 1 6",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1666.svg"
+}

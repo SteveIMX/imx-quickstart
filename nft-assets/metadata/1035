@@ -1,0 +1,8 @@
+{
+    "tokenid": 1035,
+    "eco": "B12",
+    "name": "Caro-Kann Defense: Ulysses Gambit",
+    "pgn": "1. e4 c6 2. d4 d5 3. Nf3 dxe4 4. Ng5 1/2",
+    "FEN": "rnbqkbnr/pp2pppp/2p5/6N1/3Pp3/8/PPP2PPP/RNBQKB1R b KQkq - 1 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1035.svg"
+}

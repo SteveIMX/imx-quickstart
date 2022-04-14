@@ -1,0 +1,8 @@
+{
+    "tokenid": 2105,
+    "eco": "C44",
+    "name": "King's Pawn Game: Schulze-M\u00fcller Gambit",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Nxe5 Nxe5 4. d4 1/2",
+    "FEN": "r1bqkbnr/pppp1ppp/8/4n3/3PP3/8/PPP2PPP/RNBQKB1R b KQkq d3 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2105.svg"
+}

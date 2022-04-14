@@ -1,0 +1,8 @@
+{
+    "tokenid": 909,
+    "eco": "B06",
+    "name": "Modern Defense: Bishop Attack, B\u00fccker Gambit",
+    "pgn": "1. e4 g6 2. d4 Bg7 3. Bc4 b5 1/2",
+    "FEN": "rnbqk1nr/p1ppppbp/6p1/1p6/2BPP3/8/PPP2PPP/RNBQK1NR w KQkq b6 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/909.svg"
+}

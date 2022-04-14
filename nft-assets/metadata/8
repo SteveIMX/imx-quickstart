@@ -1,0 +1,8 @@
+{
+    "tokenid": 8,
+    "eco": "A00",
+    "name": "Amar Opening",
+    "pgn": "1. Nh3 1/2",
+    "FEN": "rnbqkbnr/pppppppp/8/8/8/7N/PPPPPPPP/RNBQKB1R b KQkq - 1 1",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/8.svg"
+}

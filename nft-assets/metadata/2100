@@ -1,0 +1,8 @@
+{
+    "tokenid": 2100,
+    "eco": "C44",
+    "name": "Irish Gambit",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Nxe5 1/2",
+    "FEN": "r1bqkbnr/pppp1ppp/2n5/4N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2100.svg"
+}

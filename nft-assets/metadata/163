@@ -1,0 +1,8 @@
+{
+    "tokenid": 163,
+    "eco": "A01",
+    "name": "Nimzo-Larsen Attack: Modern Variation",
+    "pgn": "1. b3 e5 2. Bb2 Nc6 3. e3 1/2",
+    "FEN": "r1bqkbnr/pppp1ppp/2n5/4p3/8/1P2P3/PBPP1PPP/RN1QKBNR b KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/163.svg"
+}

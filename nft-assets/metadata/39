@@ -1,0 +1,8 @@
+{
+    "tokenid": 39,
+    "eco": "A00",
+    "name": "Grob Opening: Keene Defense",
+    "pgn": "1. g4 d5 2. h3 e5 3. Bg2 c6 1/2",
+    "FEN": "rnbqkbnr/pp3ppp/2p5/3pp3/6P1/7P/PPPPPPB1/RNBQK1NR w KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/39.svg"
+}

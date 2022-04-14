@@ -1,0 +1,8 @@
+{
+    "tokenid": 2763,
+    "eco": "D12",
+    "name": "Slav Defense: Quiet Variation, Schallopp Defense",
+    "pgn": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 1/2",
+    "FEN": "rn1qkb1r/pp2pppp/2p2n2/3p1b2/2PP4/4PN2/PP3PPP/RNBQKB1R w KQkq - 1 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2763.svg"
+}

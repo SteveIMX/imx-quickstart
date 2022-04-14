@@ -1,0 +1,8 @@
+{
+    "tokenid": 1148,
+    "eco": "B23",
+    "name": "Sicilian Defense: Closed, Chameleon Variation",
+    "pgn": "1. e4 c5 2. Nc3 Nc6 3. Nge2 1/2",
+    "FEN": "r1bqkbnr/pp1ppppp/2n5/2p5/4P3/2N5/PPPPNPPP/R1BQKB1R b KQkq - 3 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1148.svg"
+}

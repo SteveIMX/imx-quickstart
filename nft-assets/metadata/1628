@@ -1,0 +1,8 @@
+{
+    "tokenid": 1628,
+    "eco": "C20",
+    "name": "King's Pawn Game: Alapin Opening",
+    "pgn": "1. e4 e5 2. Ne2 1/2",
+    "FEN": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPPNPPP/RNBQKB1R b KQkq - 1 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1628.svg"
+}

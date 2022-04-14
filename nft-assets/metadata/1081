@@ -1,0 +1,8 @@
+{
+    "tokenid": 1081,
+    "eco": "B20",
+    "name": "Sicilian Defense: Amazon Attack",
+    "pgn": "1. e4 c5 2. Qg4 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/4P1Q1/8/PPPP1PPP/RNB1KBNR b KQkq - 1 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1081.svg"
+}

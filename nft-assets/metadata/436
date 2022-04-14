@@ -1,0 +1,8 @@
+{
+    "tokenid": 436,
+    "eco": "A40",
+    "name": "Englund Gambit Complex: Hartlaub-Charlick Gambit",
+    "pgn": "1. d4 e5 2. dxe5 d6 1/2",
+    "FEN": "rnbqkbnr/ppp2ppp/3p4/4P3/8/8/PPP1PPPP/RNBQKBNR w KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/436.svg"
+}

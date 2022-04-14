@@ -1,0 +1,8 @@
+{
+    "tokenid": 64,
+    "eco": "A00",
+    "name": "Hungarian Opening: Symmetrical Variation",
+    "pgn": "1. g3 g6 1/2",
+    "FEN": "rnbqkbnr/pppppp1p/6p1/8/8/6P1/PPPPPP1P/RNBQKBNR w KQkq - 0 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/64.svg"
+}

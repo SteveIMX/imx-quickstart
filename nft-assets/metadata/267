@@ -1,0 +1,8 @@
+{
+    "tokenid": 267,
+    "eco": "A09",
+    "name": "R\u00e9ti Opening: Penguin Variation",
+    "pgn": "1. Nf3 d5 2. c4 d4 3. Rg1 1/2",
+    "FEN": "rnbqkbnr/ppp1pppp/8/8/2Pp4/5N2/PP1PPPPP/RNBQKBR1 b Qkq - 1 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/267.svg"
+}

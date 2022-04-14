@@ -1,0 +1,8 @@
+{
+    "tokenid": 102,
+    "eco": "A00",
+    "name": "Polish Opening: Tartakower Gambit",
+    "pgn": "1. b4 e5 2. Bb2 f6 3. e4 1/2",
+    "FEN": "rnbqkbnr/pppp2pp/5p2/4p3/1P2P3/8/PBPP1PPP/RN1QKBNR b KQkq e3 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/102.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1496,
+    "eco": "C02",
+    "name": "French Defense: Advance Variation",
+    "pgn": "1. e4 e6 2. d4 d5 3. e5 c5 4. c3 1/2",
+    "FEN": "rnbqkbnr/pp3ppp/4p3/2ppP3/3P4/2P5/PP3PPP/RNBQKBNR b KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1496.svg"
+}

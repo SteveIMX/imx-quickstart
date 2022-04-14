@@ -1,0 +1,8 @@
+{
+    "tokenid": 852,
+    "eco": "B02",
+    "name": "Alekhine Defense: Buckley Attack",
+    "pgn": "1. e4 Nf6 2. e5 Nd5 3. Na3 1/2",
+    "FEN": "rnbqkb1r/pppppppp/8/3nP3/8/N7/PPPP1PPP/R1BQKBNR b KQkq - 2 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/852.svg"
+}

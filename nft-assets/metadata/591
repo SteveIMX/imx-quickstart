@@ -1,0 +1,8 @@
+{
+    "tokenid": 591,
+    "eco": "A53",
+    "name": "Old Indian Defense: Czech Variation",
+    "pgn": "1. d4 Nf6 2. c4 d6 3. Nc3 c6 1/2",
+    "FEN": "rnbqkb1r/pp2pppp/2pp1n2/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/591.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1817,
+    "eco": "C31",
+    "name": "King's Gambit Declined: Falkbeer Countergambit, Staunton Line",
+    "pgn": "1. e4 e5 2. f4 d5 3. exd5 e4 1/2",
+    "FEN": "rnbqkbnr/ppp2ppp/8/3P4/4pP2/8/PPPP2PP/RNBQKBNR w KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1817.svg"
+}

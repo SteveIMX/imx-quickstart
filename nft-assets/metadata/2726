@@ -1,0 +1,8 @@
+{
+    "tokenid": 2726,
+    "eco": "D07",
+    "name": "Queen's Gambit Declined: Chigorin Defense",
+    "pgn": "1. d4 d5 2. c4 Nc6 3. Nc3 1/2",
+    "FEN": "r1bqkbnr/ppp1pppp/2n5/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 2 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2726.svg"
+}

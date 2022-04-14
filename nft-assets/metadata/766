@@ -1,0 +1,8 @@
+{
+    "tokenid": 766,
+    "eco": "B00",
+    "name": "Nimzowitsch Defense: Kennedy Variation, Paulsen Attack",
+    "pgn": "1. e4 Nc6 2. d4 e5 3. dxe5 Nxe5 4. Nf3 1/2",
+    "FEN": "r1bqkbnr/pppp1ppp/8/4n3/4P3/5N2/PPP2PPP/RNBQKB1R b KQkq - 1 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/766.svg"
+}

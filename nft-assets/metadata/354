@@ -1,0 +1,8 @@
+{
+    "tokenid": 354,
+    "eco": "A20",
+    "name": "English Opening: King's English Variation, Nimzowitsch Variation",
+    "pgn": "1. c4 e5 2. Nf3 1/2",
+    "FEN": "rnbqkbnr/pppp1ppp/8/4p3/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 1 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/354.svg"
+}

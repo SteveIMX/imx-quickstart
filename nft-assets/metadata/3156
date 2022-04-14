@@ -1,0 +1,8 @@
+{
+    "tokenid": 3156,
+    "eco": "E11",
+    "name": "Bogo-Indian Defense: Vitolins Variation",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 c5 1/2",
+    "FEN": "rnbqk2r/pp1p1ppp/4pn2/2p5/1bPP4/5N2/PP1BPPPP/RN1QKB1R w KQkq c6 0 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/3156.svg"
+}

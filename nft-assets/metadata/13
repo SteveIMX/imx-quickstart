@@ -1,0 +1,8 @@
+{
+    "tokenid": 13,
+    "eco": "A00",
+    "name": "Anderssen's Opening: Polish Gambit",
+    "pgn": "1. a3 a5 2. b4 1/2",
+    "FEN": "rnbqkbnr/1ppppppp/8/p7/1P6/P7/2PPPPPP/RNBQKBNR b KQkq b3 0 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/13.svg"
+}

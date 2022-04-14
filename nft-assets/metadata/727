@@ -1,0 +1,8 @@
+{
+    "tokenid": 727,
+    "eco": "B00",
+    "name": "Barnes Defense",
+    "pgn": "1. e4 f6 1/2",
+    "FEN": "rnbqkbnr/ppppp1pp/5p2/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/727.svg"
+}

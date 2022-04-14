@@ -1,0 +1,8 @@
+{
+    "tokenid": 1974,
+    "eco": "C40",
+    "name": "King's Pawn Game: Damiano Defense, Damiano Gambit, Chigorin Gambit",
+    "pgn": "1. e4 e5 2. Nf3 f6 3. Nxe5 Qe7 4. Nf3 d5 1/2",
+    "FEN": "rnb1kbnr/ppp1q1pp/5p2/3p4/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq d6 0 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1974.svg"
+}

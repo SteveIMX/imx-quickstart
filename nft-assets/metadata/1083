@@ -1,0 +1,8 @@
+{
+    "tokenid": 1083,
+    "eco": "B20",
+    "name": "Sicilian Defense: Bowdler Attack",
+    "pgn": "1. e4 c5 2. Bc4 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1083.svg"
+}

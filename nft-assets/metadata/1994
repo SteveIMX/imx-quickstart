@@ -1,0 +1,8 @@
+{
+    "tokenid": 1994,
+    "eco": "C40",
+    "name": "Latvian Gambit: Greco Variation",
+    "pgn": "1. e4 e5 2. Nf3 f5 3. Nxe5 Qe7 1/2",
+    "FEN": "rnb1kbnr/ppppq1pp/8/4Np2/4P3/8/PPPP1PPP/RNBQKB1R w KQkq - 1 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1994.svg"
+}

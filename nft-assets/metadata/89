@@ -1,0 +1,8 @@
+{
+    "tokenid": 89,
+    "eco": "A00",
+    "name": "Polish Opening: Karniewski Variation",
+    "pgn": "1. b4 Nh6 1/2",
+    "FEN": "rnbqkb1r/pppppppp/7n/8/1P6/8/P1PPPPPP/RNBQKBNR w KQkq - 1 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/89.svg"
+}

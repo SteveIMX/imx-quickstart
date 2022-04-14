@@ -1,0 +1,8 @@
+{
+    "tokenid": 1455,
+    "eco": "C00",
+    "name": "French Defense: Bird Invitation",
+    "pgn": "1. e4 e6 2. Bb5 1/2",
+    "FEN": "rnbqkbnr/pppp1ppp/4p3/1B6/4P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1455.svg"
+}

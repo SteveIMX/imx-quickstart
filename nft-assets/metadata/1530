@@ -1,0 +1,8 @@
+{
+    "tokenid": 1530,
+    "eco": "C07",
+    "name": "French Defense: Tarrasch Variation, Open System, S\u00fcchting Line",
+    "pgn": "1. e4 e6 2. d4 d5 3. Nd2 c5 4. c3 1/2",
+    "FEN": "rnbqkbnr/pp3ppp/4p3/2pp4/3PP3/2P5/PP1N1PPP/R1BQKBNR b KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1530.svg"
+}

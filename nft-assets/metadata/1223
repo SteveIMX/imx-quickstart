@@ -1,0 +1,8 @@
+{
+    "tokenid": 1223,
+    "eco": "B32",
+    "name": "Sicilian Defense: Flohr Variation",
+    "pgn": "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qc7 1/2",
+    "FEN": "r1b1kbnr/ppqppppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1223.svg"
+}

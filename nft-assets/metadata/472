@@ -1,0 +1,8 @@
+{
+    "tokenid": 472,
+    "eco": "A40",
+    "name": "Zaire Defense",
+    "pgn": "1. d4 Nc6 2. d5 Nb8 3. e4 Nf6 4. e5 Ng8 1/2",
+    "FEN": "rnbqkbnr/pppppppp/8/3PP3/8/8/PPP2PPP/RNBQKBNR w KQkq - 1 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/472.svg"
+}

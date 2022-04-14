@@ -1,0 +1,8 @@
+{
+    "tokenid": 2827,
+    "eco": "D25",
+    "name": "Queen's Gambit Accepted: Winawer Defense",
+    "pgn": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 Be6 1/2",
+    "FEN": "rn1qkb1r/ppp1pppp/4bn2/8/2pP4/4PN2/PP3PPP/RNBQKB1R w KQkq - 1 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2827.svg"
+}

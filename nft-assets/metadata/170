@@ -1,0 +1,8 @@
+{
+    "tokenid": 170,
+    "eco": "A02",
+    "name": "Bird Opening",
+    "pgn": "1. f4 Nf6 1/2",
+    "FEN": "rnbqkb1r/pppppppp/5n2/8/5P2/8/PPPPP1PP/RNBQKBNR w KQkq - 1 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/170.svg"
+}

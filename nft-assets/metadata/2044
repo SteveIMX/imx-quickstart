@@ -1,0 +1,8 @@
+{
+    "tokenid": 2044,
+    "eco": "C41",
+    "name": "Philidor Defense: Philidor Countergambit, Zukertort Variation",
+    "pgn": "1. e4 e5 2. Nf3 d6 3. d4 f5 4. Nc3 1/2",
+    "FEN": "rnbqkbnr/ppp3pp/3p4/4pp2/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2044.svg"
+}

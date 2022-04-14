@@ -1,0 +1,8 @@
+{
+    "tokenid": 1482,
+    "eco": "C00",
+    "name": "Queen's Pawn Game: Franco-Sicilian Defense",
+    "pgn": "1. e4 e6 2. d4 c5 1/2",
+    "FEN": "rnbqkbnr/pp1p1ppp/4p3/2p5/3PP3/8/PPP2PPP/RNBQKBNR w KQkq c6 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1482.svg"
+}

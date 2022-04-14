@@ -1,0 +1,8 @@
+{
+    "tokenid": 501,
+    "eco": "A43",
+    "name": "Benoni Defense: Old Benoni, Schmid Variation",
+    "pgn": "1. d4 c5 2. d5 d6 3. Nc3 g6 1/2",
+    "FEN": "rnbqkbnr/pp2pp1p/3p2p1/2pP4/8/2N5/PPP1PPPP/R1BQKBNR w KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/501.svg"
+}

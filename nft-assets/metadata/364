@@ -1,0 +1,8 @@
+{
+    "tokenid": 364,
+    "eco": "A22",
+    "name": "English Opening: King's English Variation, Two Knights Variation",
+    "pgn": "1. c4 e5 2. Nc3 Nf6 1/2",
+    "FEN": "rnbqkb1r/pppp1ppp/5n2/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/364.svg"
+}

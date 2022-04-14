@@ -1,0 +1,8 @@
+{
+    "tokenid": 54,
+    "eco": "A00",
+    "name": "Hungarian Opening: Indian Defense",
+    "pgn": "1. g3 Nf6 1/2",
+    "FEN": "rnbqkb1r/pppppppp/5n2/8/8/6P1/PPPPPP1P/RNBQKBNR w KQkq - 1 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/54.svg"
+}

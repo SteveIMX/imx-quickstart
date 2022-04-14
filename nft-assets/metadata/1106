@@ -1,0 +1,8 @@
+{
+    "tokenid": 1106,
+    "eco": "B21",
+    "name": "Bird Opening: Dutch Variation, Batavo Gambit",
+    "pgn": "1. e4 c5 2. f4 d5 3. Nf3 dxe4 1/2",
+    "FEN": "rnbqkbnr/pp2pppp/8/2p5/4pP2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1106.svg"
+}

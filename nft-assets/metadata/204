@@ -1,0 +1,8 @@
+{
+    "tokenid": 204,
+    "eco": "A04",
+    "name": "Zukertort Opening: Basman Defense",
+    "pgn": "1. Nf3 h6 1/2",
+    "FEN": "rnbqkbnr/ppppppp1/7p/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/204.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 459,
+    "eco": "A40",
+    "name": "Polish Defense: Spassky Gambit Accepted",
+    "pgn": "1. d4 b5 2. e4 Bb7 3. Bxb5 1/2",
+    "FEN": "rn1qkbnr/pbpppppp/8/1B6/3PP3/8/PPP2PPP/RNBQK1NR b KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/459.svg"
+}

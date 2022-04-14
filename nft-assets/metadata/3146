@@ -1,0 +1,8 @@
+{
+    "tokenid": 3146,
+    "eco": "E10",
+    "name": "Indian Defense: D\u00f6ry Indian",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nf3 Ne4 1/2",
+    "FEN": "rnbqkb1r/pppp1ppp/4p3/8/2PPn3/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/3146.svg"
+}

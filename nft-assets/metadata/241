@@ -1,0 +1,8 @@
+{
+    "tokenid": 241,
+    "eco": "A06",
+    "name": "Nimzo-Larsen Attack: Norfolk Gambit",
+    "pgn": "1. Nf3 d5 2. b3 Nf6 3. Bb2 c5 4. e4 1/2",
+    "FEN": "rnbqkb1r/pp2pppp/5n2/2pp4/4P3/1P3N2/PBPP1PPP/RN1QKB1R b KQkq e3 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/241.svg"
+}

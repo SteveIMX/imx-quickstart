@@ -1,0 +1,8 @@
+{
+    "tokenid": 3293,
+    "eco": "E60",
+    "name": "King's Indian Defense: Fianchetto Variation, Immediate Fianchetto",
+    "pgn": "1. d4 Nf6 2. c4 g6 3. g3 1/2",
+    "FEN": "rnbqkb1r/pppppp1p/5np1/8/2PP4/6P1/PP2PP1P/RNBQKBNR b KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/3293.svg"
+}

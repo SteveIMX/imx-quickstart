@@ -1,0 +1,8 @@
+{
+    "tokenid": 1485,
+    "eco": "C00",
+    "name": "St. George Defense",
+    "pgn": "1. e4 e6 2. d4 a6 1/2",
+    "FEN": "rnbqkbnr/1ppp1ppp/p3p3/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1485.svg"
+}

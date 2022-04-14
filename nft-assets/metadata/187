@@ -1,0 +1,8 @@
+{
+    "tokenid": 187,
+    "eco": "A02",
+    "name": "Bird Opening: Wagner-Zwitersch Gambit",
+    "pgn": "1. f4 f5 2. e4 1/2",
+    "FEN": "rnbqkbnr/ppppp1pp/8/5p2/4PP2/8/PPPP2PP/RNBQKBNR b KQkq e3 0 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/187.svg"
+}

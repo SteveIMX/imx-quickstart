@@ -1,0 +1,8 @@
+{
+    "tokenid": 513,
+    "eco": "A45",
+    "name": "Blackmar-Diemer Gambit Declined: Weinsbach Declination",
+    "pgn": "1. d4 Nf6 2. Nc3 d5 3. f3 e6 4. e4 dxe4 1/2",
+    "FEN": "rnbqkb1r/ppp2ppp/4pn2/8/3Pp3/2N2P2/PPP3PP/R1BQKBNR w KQkq - 0 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/513.svg"
+}

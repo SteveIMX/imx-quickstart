@@ -1,0 +1,8 @@
+{
+    "tokenid": 106,
+    "eco": "A00",
+    "name": "Sodium Attack",
+    "pgn": "1. Na3 1/2",
+    "FEN": "rnbqkbnr/pppppppp/8/8/8/N7/PPPPPPPP/R1BQKBNR b KQkq - 1 1",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/106.svg"
+}

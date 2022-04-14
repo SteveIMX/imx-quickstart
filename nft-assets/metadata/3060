@@ -1,0 +1,8 @@
+{
+    "tokenid": 3060,
+    "eco": "D80",
+    "name": "Gr\u00fcnfeld Defense: Gibbon Gambit",
+    "pgn": "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. g4 1/2",
+    "FEN": "rnbqkb1r/ppp1pp1p/5np1/3p4/2PP2P1/2N5/PP2PP1P/R1BQKBNR b KQkq g3 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/3060.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 2355,
+    "eco": "C56",
+    "name": "Italian Game: Scotch Gambit, Double Gambit Accepted",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 1/2",
+    "FEN": "r1bqkb1r/pppp1ppp/2n5/8/2Bpn3/5N2/PPP2PPP/RNBQ1RK1 w kq - 0 6",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2355.svg"
+}

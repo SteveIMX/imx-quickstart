@@ -1,0 +1,8 @@
+{
+    "tokenid": 865,
+    "eco": "B02",
+    "name": "Alekhine Defense: Scandinavian Variation, Geschev Gambit",
+    "pgn": "1. e4 Nf6 2. Nc3 d5 3. exd5 c6 1/2",
+    "FEN": "rnbqkb1r/pp2pppp/2p2n2/3P4/8/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/865.svg"
+}

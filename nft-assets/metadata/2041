@@ -1,0 +1,8 @@
+{
+    "tokenid": 2041,
+    "eco": "C41",
+    "name": "Philidor Defense: Paulsen Attack",
+    "pgn": "1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 d5 5. exd5 1/2",
+    "FEN": "rnbqkbnr/ppp2ppp/8/3P4/3N4/8/PPP2PPP/RNBQKB1R b KQkq - 0 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2041.svg"
+}

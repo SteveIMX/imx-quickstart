@@ -1,0 +1,8 @@
+{
+    "tokenid": 426,
+    "eco": "A40",
+    "name": "English Defense: Eastbourne Gambit",
+    "pgn": "1. d4 b6 2. c4 Bb7 3. Nc3 e5 1/2",
+    "FEN": "rn1qkbnr/pbpp1ppp/1p6/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq e6 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/426.svg"
+}

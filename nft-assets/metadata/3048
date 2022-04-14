@@ -1,0 +1,8 @@
+{
+    "tokenid": 3048,
+    "eco": "D70",
+    "name": "Neo-Gr\u00fcnfeld Defense: Goglidze Attack",
+    "pgn": "1. d4 Nf6 2. c4 g6 3. f3 d5 1/2",
+    "FEN": "rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/5P2/PP2P1PP/RNBQKBNR w KQkq d6 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/3048.svg"
+}

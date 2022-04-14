@@ -1,0 +1,8 @@
+{
+    "tokenid": 76,
+    "eco": "A00",
+    "name": "Lasker Simul Special",
+    "pgn": "1. g3 h5 1/2",
+    "FEN": "rnbqkbnr/ppppppp1/8/7p/8/6P1/PPPPPP1P/RNBQKBNR w KQkq h6 0 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/76.svg"
+}

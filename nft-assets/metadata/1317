@@ -1,0 +1,8 @@
+{
+    "tokenid": 1317,
+    "eco": "B53",
+    "name": "Sicilian Defense: Chekhover Variation",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 1/2",
+    "FEN": "rnbqkbnr/pp2pppp/3p4/8/3QP3/5N2/PPP2PPP/RNB1KB1R b KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1317.svg"
+}

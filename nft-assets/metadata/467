@@ -1,0 +1,8 @@
+{
+    "tokenid": 467,
+    "eco": "A40",
+    "name": "Queen's Pawn Game: Anglo-Slav Opening",
+    "pgn": "1. d4 c6 2. c4 d6 1/2",
+    "FEN": "rnbqkbnr/pp2pppp/2pp4/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/467.svg"
+}

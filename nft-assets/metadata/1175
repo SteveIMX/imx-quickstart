@@ -1,0 +1,8 @@
+{
+    "tokenid": 1175,
+    "eco": "B27",
+    "name": "Sicilian Defense: B\u00fccker Variation",
+    "pgn": "1. e4 c5 2. Nf3 h6 1/2",
+    "FEN": "rnbqkbnr/pp1pppp1/7p/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1175.svg"
+}

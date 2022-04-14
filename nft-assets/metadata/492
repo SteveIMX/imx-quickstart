@@ -1,0 +1,8 @@
+{
+    "tokenid": 492,
+    "eco": "A43",
+    "name": "Benoni Defense: Benoni-Indian Defense, Kingside Move Order",
+    "pgn": "1. d4 Nf6 2. Nf3 c5 3. d5 1/2",
+    "FEN": "rnbqkb1r/pp1ppppp/5n2/2pP4/8/5N2/PPP1PPPP/RNBQKB1R b KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/492.svg"
+}

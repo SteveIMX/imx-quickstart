@@ -1,0 +1,8 @@
+{
+    "tokenid": 2848,
+    "eco": "D30",
+    "name": "Queen's Gambit Declined: Spielmann Variation",
+    "pgn": "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. e3 c6 5. Nbd2 g6 1/2",
+    "FEN": "rnbqkb1r/pp3p1p/2p1pnp1/3p4/2PP4/4PN2/PP1N1PPP/R1BQKB1R w KQkq - 0 6",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2848.svg"
+}

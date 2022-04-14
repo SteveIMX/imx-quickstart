@@ -1,0 +1,8 @@
+{
+    "tokenid": 515,
+    "eco": "A45",
+    "name": "Canard Opening",
+    "pgn": "1. d4 Nf6 2. f4 1/2",
+    "FEN": "rnbqkb1r/pppppppp/5n2/8/3P1P2/8/PPP1P1PP/RNBQKBNR b KQkq f3 0 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/515.svg"
+}

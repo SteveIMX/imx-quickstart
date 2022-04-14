@@ -1,0 +1,8 @@
+{
+    "tokenid": 2863,
+    "eco": "D31",
+    "name": "Queen's Gambit Declined: Semi-Slav, Koomen Variation",
+    "pgn": "1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 dxc4 5. e3 b5 6. a4 Bb4 7. Bd2 Qe7 1/2",
+    "FEN": "rnb1k1nr/p3qppp/2p1p3/1p6/PbpP4/2N1PN2/1P1B1PPP/R2QKB1R w KQkq - 3 8",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2863.svg"
+}

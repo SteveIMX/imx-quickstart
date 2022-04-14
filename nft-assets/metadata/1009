@@ -1,0 +1,8 @@
+{
+    "tokenid": 1009,
+    "eco": "B11",
+    "name": "Caro-Kann Defense: Two Knights Attack, Mindeno Variation",
+    "pgn": "1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 1/2",
+    "FEN": "rn1qkbnr/pp2pppp/2p5/3p4/4P1b1/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 2 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1009.svg"
+}

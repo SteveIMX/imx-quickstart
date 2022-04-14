@@ -1,0 +1,8 @@
+{
+    "tokenid": 2295,
+    "eco": "C52",
+    "name": "Italian Game: Evans Gambit, Sanders-Alapin Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. O-O d6 7. d4 Bd7 1/2",
+    "FEN": "r2qk1nr/pppb1ppp/2np4/b3p3/2BPP3/2P2N2/P4PPP/RNBQ1RK1 w kq - 1 8",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2295.svg"
+}

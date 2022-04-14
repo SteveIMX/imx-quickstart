@@ -1,0 +1,8 @@
+{
+    "tokenid": 2155,
+    "eco": "C45",
+    "name": "Scotch Game: Braune Variation",
+    "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Be3 1/2",
+    "FEN": "r1b1kbnr/pppp1ppp/2n5/8/3NP2q/4B3/PPP2PPP/RN1QKB1R b KQkq - 2 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2155.svg"
+}

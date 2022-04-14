@@ -1,0 +1,8 @@
+{
+    "tokenid": 1683,
+    "eco": "C23",
+    "name": "Bishop's Opening: Calabrese Countergambit, Jaenisch Variation",
+    "pgn": "1. e4 e5 2. Bc4 f5 3. d3 1/2",
+    "FEN": "rnbqkbnr/pppp2pp/8/4pp2/2B1P3/3P4/PPP2PPP/RNBQK1NR b KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1683.svg"
+}

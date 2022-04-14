@@ -1,0 +1,8 @@
+{
+    "tokenid": 2000,
+    "eco": "C40",
+    "name": "Latvian Gambit: Mayet Attack, Polerio-Svedenborg Variation",
+    "pgn": "1. e4 e5 2. Nf3 f5 3. Bc4 fxe4 4. Nxe5 d5 1/2",
+    "FEN": "rnbqkbnr/ppp3pp/8/3pN3/2B1p3/8/PPPP1PPP/RNBQK2R w KQkq d6 0 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2000.svg"
+}

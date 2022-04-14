@@ -1,0 +1,8 @@
+{
+    "tokenid": 1501,
+    "eco": "C02",
+    "name": "French Defense: Advance Variation, Lputian Variation",
+    "pgn": "1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 Nh6 1/2",
+    "FEN": "r1b1kb1r/pp3ppp/1qn1p2n/2ppP3/3P4/P1P2N2/1P3PPP/RNBQKB1R w KQkq - 1 7",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1501.svg"
+}

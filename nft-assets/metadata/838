@@ -1,0 +1,8 @@
+{
+    "tokenid": 838,
+    "eco": "B01",
+    "name": "Scandinavian Defense: Modern Variation, Gipslis Variation",
+    "pgn": "1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 Bg4 1/2",
+    "FEN": "rn1qkb1r/ppp1pppp/8/3n4/3P2b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 2 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/838.svg"
+}

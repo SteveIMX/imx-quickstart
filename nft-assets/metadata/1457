@@ -1,0 +1,8 @@
+{
+    "tokenid": 1457,
+    "eco": "C00",
+    "name": "French Defense: Chigorin Variation",
+    "pgn": "1. e4 e6 2. Qe2 1/2",
+    "FEN": "rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPPQPPP/RNB1KBNR b KQkq - 1 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1457.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 2724,
+    "eco": "D06",
+    "name": "Queen's Gambit Declined: Zilbermints Gambit",
+    "pgn": "1. d4 d5 2. c4 b5 1/2",
+    "FEN": "rnbqkbnr/p1p1pppp/8/1p1p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq b6 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2724.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1948,
+    "eco": "C39",
+    "name": "King's Gambit Accepted: Kieseritzky Gambit, Brentano Defense",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 d5 6. d4 Nf6 7. Bxf4 1/2",
+    "FEN": "rnbqkb1r/ppp2p1p/5n2/3pN3/3PPBpP/8/PPP3P1/RN1QKB1R b KQkq - 0 7",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1948.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1330,
+    "eco": "B57",
+    "name": "Sicilian Defense: Classical Variation, Anti-Sozin Variation",
+    "pgn": "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 Qb6 1/2",
+    "FEN": "r1b1kb1r/pp2pppp/1qnp1n2/8/2BNP3/2N5/PPP2PPP/R1BQK2R w KQkq - 2 7",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1330.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 500,
+    "eco": "A43",
+    "name": "Benoni Defense: Old Benoni, Mujannah Formation",
+    "pgn": "1. d4 c5 2. d5 f5 1/2",
+    "FEN": "rnbqkbnr/pp1pp1pp/8/2pP1p2/8/8/PPP1PPPP/RNBQKBNR w KQkq f6 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/500.svg"
+}

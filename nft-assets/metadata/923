@@ -1,0 +1,8 @@
+{
+    "tokenid": 923,
+    "eco": "B06",
+    "name": "Modern Defense: Standard Defense",
+    "pgn": "1. e4 g6 2. d4 Bg7 3. Nc3 d6 1/2",
+    "FEN": "rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/923.svg"
+}

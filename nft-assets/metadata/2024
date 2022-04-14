@@ -1,0 +1,8 @@
+{
+    "tokenid": 2024,
+    "eco": "C41",
+    "name": "Philidor Defense: Lion Variation",
+    "pgn": "1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 1/2",
+    "FEN": "r1bqkb1r/pppn1ppp/3p1n2/4p3/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 3 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/2024.svg"
+}

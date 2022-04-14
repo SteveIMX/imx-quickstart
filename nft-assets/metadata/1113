@@ -1,0 +1,8 @@
+{
+    "tokenid": 1113,
+    "eco": "B21",
+    "name": "Sicilian Defense: Smith-Morra Gambit",
+    "pgn": "1. e4 c5 2. d4 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1113.svg"
+}

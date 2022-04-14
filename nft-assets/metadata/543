@@ -1,0 +1,8 @@
+{
+    "tokenid": 543,
+    "eco": "A46",
+    "name": "D\u00f6ry Defense",
+    "pgn": "1. d4 Nf6 2. Nf3 Ne4 1/2",
+    "FEN": "rnbqkb1r/pppppppp/8/8/3Pn3/5N2/PPP1PPPP/RNBQKB1R w KQkq - 3 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/543.svg"
+}

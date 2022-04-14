@@ -1,0 +1,8 @@
+{
+    "tokenid": 1971,
+    "eco": "C40",
+    "name": "King's Pawn Game: Busch-Gass Gambit, Chiodini Gambit",
+    "pgn": "1. e4 e5 2. Nf3 Bc5 3. Nxe5 Nc6 1/2",
+    "FEN": "r1bqk1nr/pppp1ppp/2n5/2b1N3/4P3/8/PPPP1PPP/RNBQKB1R w KQkq - 1 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1971.svg"
+}

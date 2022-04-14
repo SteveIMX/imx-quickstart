@@ -1,0 +1,8 @@
+{
+    "tokenid": 148,
+    "eco": "A00",
+    "name": "Ware Opening",
+    "pgn": "1. a4 1/2",
+    "FEN": "rnbqkbnr/pppppppp/8/8/P7/8/1PPPPPPP/RNBQKBNR b KQkq a3 0 1",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/148.svg"
+}

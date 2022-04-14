@@ -1,0 +1,8 @@
+{
+    "tokenid": 1913,
+    "eco": "C37",
+    "name": "King's Gambit Accepted: Muzio Gambit, Wild Muzio Gambit",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O 1/2",
+    "FEN": "rnbqkbnr/pppp1p1p/8/8/2B1Ppp1/5N2/PPPP2PP/RNBQ1RK1 b kq - 1 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1913.svg"
+}

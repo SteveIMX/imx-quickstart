@@ -1,0 +1,8 @@
+{
+    "tokenid": 537,
+    "eco": "A45",
+    "name": "Trompowsky Attack: Edge Variation",
+    "pgn": "1. d4 Nf6 2. Bg5 Ne4 3. Bh4 1/2",
+    "FEN": "rnbqkb1r/pppppppp/8/8/3Pn2B/8/PPP1PPPP/RN1QKBNR b KQkq - 4 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/537.svg"
+}

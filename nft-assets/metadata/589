@@ -1,0 +1,8 @@
+{
+    "tokenid": 589,
+    "eco": "A53",
+    "name": "Old Indian Defense",
+    "pgn": "1. d4 Nf6 2. c4 d6 1/2",
+    "FEN": "rnbqkb1r/ppp1pppp/3p1n2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/589.svg"
+}

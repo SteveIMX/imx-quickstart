@@ -1,0 +1,8 @@
+{
+    "tokenid": 1135,
+    "eco": "B22",
+    "name": "Sicilian Defense: Alapin Variation, Barmen Defense",
+    "pgn": "1. e4 c5 2. c3 d5 3. exd5 Qxd5 1/2",
+    "FEN": "rnb1kbnr/pp2pppp/8/2pq4/8/2P5/PP1P1PPP/RNBQKBNR w KQkq - 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1135.svg"
+}

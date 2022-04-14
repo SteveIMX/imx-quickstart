@@ -1,0 +1,8 @@
+{
+    "tokenid": 19,
+    "eco": "A00",
+    "name": "Clemenz Opening: Spike Lee Gambit",
+    "pgn": "1. h3 h5 2. g4 1/2",
+    "FEN": "rnbqkbnr/ppppppp1/8/7p/6P1/7P/PPPPPP2/RNBQKBNR b KQkq g3 0 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/19.svg"
+}

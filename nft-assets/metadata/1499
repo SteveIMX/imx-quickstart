@@ -1,0 +1,8 @@
+{
+    "tokenid": 1499,
+    "eco": "C02",
+    "name": "French Defense: Advance Variation, Extended Bishop Swap",
+    "pgn": "1. e4 e6 2. d4 d5 3. e5 Bd7 1/2",
+    "FEN": "rn1qkbnr/pppb1ppp/4p3/3pP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 1 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1499.svg"
+}

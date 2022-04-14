@@ -1,0 +1,8 @@
+{
+    "tokenid": 360,
+    "eco": "A21",
+    "name": "English Opening: King's English Variation, Smyslov Defense",
+    "pgn": "1. c4 e5 2. Nc3 d6 3. Nf3 Bg4 1/2",
+    "FEN": "rn1qkbnr/ppp2ppp/3p4/4p3/2P3b1/2N2N2/PP1PPPPP/R1BQKB1R w KQkq - 2 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/360.svg"
+}

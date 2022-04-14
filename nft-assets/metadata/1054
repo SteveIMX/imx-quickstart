@@ -1,0 +1,8 @@
+{
+    "tokenid": 1054,
+    "eco": "B15",
+    "name": "Caro-Kann Defense: Finnish Variation",
+    "pgn": "1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 h6 1/2",
+    "FEN": "rnbqkbnr/pp2ppp1/2p4p/8/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 0 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1054.svg"
+}

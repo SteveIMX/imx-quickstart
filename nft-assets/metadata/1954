@@ -1,0 +1,8 @@
+{
+    "tokenid": 1954,
+    "eco": "C39",
+    "name": "King's Gambit Accepted: Kieseritzky Gambit, Neumann Defense",
+    "pgn": "1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nc6 1/2",
+    "FEN": "r1bqkbnr/pppp1p1p/2n5/4N3/4PppP/8/PPPP2P1/RNBQKB1R w KQkq - 2 6",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1954.svg"
+}

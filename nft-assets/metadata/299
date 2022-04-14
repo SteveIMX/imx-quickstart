@@ -1,0 +1,8 @@
+{
+    "tokenid": 299,
+    "eco": "A12",
+    "name": "R\u00e9ti Opening: Anglo-Slav Variation, Capablanca Variation",
+    "pgn": "1. c4 Nf6 2. Nf3 c6 3. b3 d5 4. Bb2 Bg4 1/2",
+    "FEN": "rn1qkb1r/pp2pppp/2p2n2/3p4/2P3b1/1P3N2/PB1PPPPP/RN1QKB1R w KQkq - 2 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/299.svg"
+}

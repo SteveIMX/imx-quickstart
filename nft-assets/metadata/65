@@ -1,0 +1,8 @@
+{
+    "tokenid": 65,
+    "eco": "A00",
+    "name": "Hungarian Opening: Van Kuijk Gambit",
+    "pgn": "1. g3 h5 2. Nf3 h4 1/2",
+    "FEN": "rnbqkbnr/ppppppp1/8/8/7p/5NP1/PPPPPP1P/RNBQKB1R w KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/65.svg"
+}

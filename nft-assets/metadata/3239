@@ -1,0 +1,8 @@
+{
+    "tokenid": 3239,
+    "eco": "E32",
+    "name": "Nimzo-Indian Defense: Classical Variation, Vitolins-Adorjan Gambit",
+    "pgn": "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b5 1/2",
+    "FEN": "rnbq1rk1/p1pp1ppp/4pn2/1p6/2PP4/P1Q5/1P2PPPP/R1B1KBNR w KQ b6 0 7",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/3239.svg"
+}

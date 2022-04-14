@@ -1,0 +1,8 @@
+{
+    "tokenid": 812,
+    "eco": "B00",
+    "name": "Zukertort Defense: Sicilian Knight Variation",
+    "pgn": "1. e4 Na6 2. Nf3 c5 1/2",
+    "FEN": "r1bqkbnr/pp1ppppp/n7/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq c6 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/812.svg"
+}

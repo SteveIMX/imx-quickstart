@@ -1,0 +1,8 @@
+{
+    "tokenid": 295,
+    "eco": "A12",
+    "name": "R\u00e9ti Opening: Anglo-Slav Variation, Bled Variation",
+    "pgn": "1. Nf3 d5 2. b3 Nf6 3. Bb2 g6 4. c4 c6 1/2",
+    "FEN": "rnbqkb1r/pp2pp1p/2p2np1/3p4/2P5/1P3N2/PB1PPPPP/RN1QKB1R w KQkq - 0 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/295.svg"
+}

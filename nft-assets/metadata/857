@@ -1,0 +1,8 @@
+{
+    "tokenid": 857,
+    "eco": "B02",
+    "name": "Alekhine Defense: Krejcik Variation",
+    "pgn": "1. e4 Nf6 2. Bc4 1/2",
+    "FEN": "rnbqkb1r/pppppppp/5n2/8/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 2 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/857.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1130,
+    "eco": "B21",
+    "name": "Sicilian Defense: Smith-Morra Gambit Declined, Scandinavian Formation",
+    "pgn": "1. e4 c5 2. d4 cxd4 3. c3 d5 1/2",
+    "FEN": "rnbqkbnr/pp2pppp/8/3p4/3pP3/2P5/PP3PPP/RNBQKBNR w KQkq d6 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1130.svg"
+}

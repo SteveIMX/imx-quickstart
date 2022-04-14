@@ -1,0 +1,8 @@
+{
+    "tokenid": 608,
+    "eco": "A57",
+    "name": "Benko Gambit",
+    "pgn": "1. d4 Nf6 2. c4 c5 3. d5 b5 1/2",
+    "FEN": "rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq b6 0 4",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/608.svg"
+}

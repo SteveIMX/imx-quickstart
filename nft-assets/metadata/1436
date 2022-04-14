@@ -1,0 +1,8 @@
+{
+    "tokenid": 1436,
+    "eco": "B94",
+    "name": "Sicilian Defense: Najdorf Variation, Ivkov Variation",
+    "pgn": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Qa5 8. Qd2 e6 9. O-O-O b5 10. Bb3 Bb7 1 1/2",
+    "FEN": "r3kb1r/1b1n1ppp/p2ppn2/qp4B1/3NP3/1BN5/PPPQ1PPP/2KR3R w kq - 2 11",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1436.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "tokenid": 1815,
+    "eco": "C31",
+    "name": "King's Gambit Declined: Falkbeer Countergambit, Pickler Gambit",
+    "pgn": "1. e4 e5 2. f4 d5 3. exd5 c6 4. dxc6 Bc5 1/2",
+    "FEN": "rnbqk1nr/pp3ppp/2P5/2b1p3/5P2/8/PPPP2PP/RNBQKBNR w KQkq - 1 5",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1815.svg"
+}

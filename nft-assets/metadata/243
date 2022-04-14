@@ -1,0 +1,8 @@
+{
+    "tokenid": 243,
+    "eco": "A06",
+    "name": "Zukertort Opening: Ampel Variation",
+    "pgn": "1. Nf3 d5 2. Rg1 1/2",
+    "FEN": "rnbqkbnr/ppp1pppp/8/3p4/8/5N2/PPPPPPPP/RNBQKBR1 b Qkq - 1 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/243.svg"
+}

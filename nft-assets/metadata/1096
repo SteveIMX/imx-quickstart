@@ -1,0 +1,8 @@
+{
+    "tokenid": 1096,
+    "eco": "B20",
+    "name": "Sicilian Defense: Snyder Variation, Queen Fianchetto Variation",
+    "pgn": "1. e4 c5 2. b3 b6 1/2",
+    "FEN": "rnbqkbnr/p2ppppp/1p6/2p5/4P3/1P6/P1PP1PPP/RNBQKBNR w KQkq - 0 3",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/1096.svg"
+}

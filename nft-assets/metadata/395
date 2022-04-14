@@ -1,0 +1,8 @@
+{
+    "tokenid": 395,
+    "eco": "A30",
+    "name": "English Opening: Wing Gambit",
+    "pgn": "1. c4 c5 2. b4 1/2",
+    "FEN": "rnbqkbnr/pp1ppppp/8/2p5/1PP5/8/P2PPPPP/RNBQKBNR b KQkq b3 0 2",
+    "image_url": "https://raw.githubusercontent.com/jackyatesaustin/ChessOpenerDataset/tree/jack/metadata/images/395.svg"
+}
